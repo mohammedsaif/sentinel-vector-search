@@ -239,17 +239,34 @@ gh repo create sentinel-vector-search --public --source=. --push
 
 `scripts/cosine_search.py` demonstrates every concept behind vector databases, from scratch:
 
-1. **Hand-computed example** — the class 2D points `(2,3)`, `(1,2)`, `(0,4)` with query `(2,4)`: Euclidean distance and cosine similarity are calculated by hand and ranked.
-2. **Brute-force top-k** — NumPy computes both metrics over 1,000 Gemini Embedding 2 vectors (3072 dimensions each).
-3. **Qdrant verification** — the same queries run in an in-memory Qdrant collection; top-k indices and scores match the NumPy results.
+1. **Hand-computed example** — the class 2D points `(2,3)`, `(1,2)`, `(0,4)` with query `(2,4)`. Euclidean ranks A > C > B; cosine ranks B > A > C (B points exactly along the query, so cosine = 1.0). The two metrics disagree.
+2. **Brute-force top-k** — NumPy computes both metrics over the 270 real Gemini Embedding 2 chunk vectors (3072 dimensions) loaded from the embedding cache, with three real queries embedded by the same model.
+3. **Qdrant verification** — the same queries run against a COSINE collection and a EUCLID collection (`exact=True`). Ordered IDs and scores match the NumPy results for both metrics, on Qdrant Cloud.
 4. **Normalised vectors** — after L2-normalisation, cosine similarity and dot product give identical rankings, because normalised vectors have unit length and `cos(a,b) = a·b`.
-5. **Benchmark** — brute force vs Qdrant (with an HNSW index) for 1K and 10K vectors. Qdrant is faster by orders of magnitude at 10K.
+5. **Benchmark** — NumPy brute force vs Qdrant, exact scan vs HNSW, at 1K and 10K random vectors.
+
+```bash
+python scripts/cosine_search.py            # real cached Gemini vectors, local Qdrant
+python scripts/cosine_search.py --cloud    # tasks 3 and 5 on Qdrant Cloud (uses .env)
+```
 
 ### What HNSW changes
 
-Brute-force search checks every vector: **O(n)** comparisons. At 10K vectors this takes ~0.4 s on a laptop; at 100M it would take minutes.
+Exact search (NumPy, or Qdrant with `exact=True`) compares the query with **every** vector: **O(n)** work per query. HNSW (Hierarchical Navigable Small World) builds a multi-layer graph. A query enters at a sparse top layer, hops greedily toward the query, drops a layer, and repeats, visiting only a small neighbourhood: roughly **O(log n)** comparisons. The trade-offs are build time, extra memory, and **approximate** answers.
 
-HNSW (Hierarchical Navigable Small World) builds a multi-layer graph index. A query enters at the top layer (coarse, few nodes) and navigates down through increasingly fine layers, landing in the right neighbourhood in **O(log n)** steps. At 10K vectors this takes ~0.2 ms — a **2000× speed-up** for the same query. The trade-off is index build time and extra memory, but the result is that real-world vector databases handle millions of vectors in milliseconds.
+**Measured results** (Qdrant Cloud `sa-east-1`, 3072-dim random vectors, 10 queries, k=5, `m=16`, `ef_construct=100`, `hnsw_ef=128`, `indexing_threshold=1000 KB`, 100% of vectors indexed before timing):
+
+| Vectors | NumPy cosine | Qdrant exact scan | Qdrant HNSW | HNSW recall@5 | Network round trip |
+|---|---|---|---|---|---|
+| 1,000 | 0.005 s/query | 0.415 s | 0.425 s | 1.00 | 0.377 s |
+| 10,000 | 0.051 s/query | 0.421 s | 0.434 s | 0.46 | 0.374 s |
+
+What this does and does not show:
+
+- **No speed-up was measured.** About 0.37 s of every Qdrant query is the network round trip to the cloud region. After subtracting it, exact scan and HNSW are both roughly 0.04–0.06 s, with no advantage for HNSW at these sizes. HNSW pays off at much larger collections, so 10K vectors is too small to show it.
+- **Recall drops to 0.46 at 10K** here. Random Gaussian vectors in 3072 dimensions have no cluster structure, which is a hard case for graph search. Real embeddings usually do much better, but that was not measured (only 270 real vectors exist).
+- **The default indexing threshold hides HNSW at small sizes.** Qdrant builds the graph only once a segment exceeds `indexing_threshold` (20,000 KB by default, about 1,666 vectors at 3072 dims), so 1,000 vectors get no graph unless the threshold is lowered, as the script does.
+- Local `:memory:` mode never builds an HNSW graph. Qdrant timings from it are brute force.
 
 ## Security
 
