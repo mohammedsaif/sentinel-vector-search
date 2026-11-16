@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cosine Search Poster</title>
+<style>
+  :root { --bg:#0b1630; --panel:#13224a; --ink:#e8eefc; --muted:#9db0d8; --cyan:#4fd1ff; --green:#4ade80; --amber:#fbbf24; --red:#f87171; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:#050b1c; font-family:"Segoe UI",system-ui,sans-serif; color:var(--ink); display:flex; justify-content:center; padding:24px; }
+  .poster { width:1280px; max-width:100%; background:radial-gradient(circle at 80% 10%, #1a2f66 0%, var(--bg) 55%); border-radius:20px; padding:48px; }
+  h1 { font-size:56px; margin:0 0 8px; letter-spacing:-1px; }
+  h1 span { color:var(--cyan); }
+  .sub { font-size:22px; color:var(--muted); margin:0 0 32px; }
+  .grid { display:grid; grid-template-columns:1.1fr 1fr; gap:24px; }
+  .card { background:var(--panel); border-radius:16px; padding:24px; border:1px solid #243a73; }
+  .card h2 { margin:0 0 12px; font-size:22px; color:var(--cyan); }
+  .formula { font-family:Consolas,monospace; font-size:28px; text-align:center; padding:16px; background:#0b1630; border-radius:12px; margin:12px 0; }
+  table { width:100%; border-collapse:collapse; font-size:18px; }
+  th,td { padding:8px 10px; text-align:left; border-bottom:1px solid #243a73; }
+  th { color:var(--muted); font-weight:600; }
+  .g { color:var(--green); font-weight:700; } .r { color:var(--red); font-weight:700; } .a { color:var(--amber); font-weight:700; }
+  .steps { display:grid; grid-template-columns:repeat(5,1fr); gap:12px; margin-top:24px; }
+  .step { background:var(--panel); border:1px solid #243a73; border-radius:14px; padding:14px; font-size:16px; }
+  .step b { display:block; color:var(--amber); font-size:15px; margin-bottom:4px; }
+  .callout { margin-top:24px; padding:20px 24px; border-radius:14px; background:#1b2f66; font-size:22px; border-left:6px solid var(--green); }
+  svg { width:100%; height:auto; display:block; }
+  footer { margin-top:20px; color:var(--muted); font-size:16px; text-align:center; }
+  @media (max-width:900px){ .grid{grid-template-columns:1fr;} .steps{grid-template-columns:1fr 1fr;} h1{font-size:38px;} }
+</style>
+</head>
+<body>
+<div class="poster">
+  <h1>Cosine Search: <span>direction beats distance</span></h1>
+  <p class="sub">How Sentinel finds the closest fraud-case text among 3,072-dimensional vectors &middot; scripts/cosine_search.py</p>
+
+  <div class="grid">
+    <div class="card">
+      <h2>The idea in one picture</h2>
+      <svg viewBox="0 0 420 300" role="img" aria-label="2D vectors q, A, B, C from the origin">
+        <g stroke="#6b7fb0" stroke-width="1.5" fill="none">
+          <line x1="40" y1="260" x2="400" y2="260"/><line x1="40" y1="260" x2="40" y2="20"/>
+        </g>
+        <g stroke-width="3" fill="none" stroke-linecap="round">
+          <line x1="40" y1="260" x2="180" y2="60" stroke="#e8eefc"/>
+          <line x1="40" y1="260" x2="110" y2="160" stroke="#4ade80"/>
+          <line x1="40" y1="260" x2="180" y2="110" stroke="#4fd1ff"/>
+          <line x1="40" y1="260" x2="40" y2="60" stroke="#f87171"/>
+        </g>
+        <g font-size="16" font-family="Segoe UI,sans-serif">
+          <text x="190" y="62" fill="#e8eefc">q (2,4)</text>
+          <text x="120" y="160" fill="#4ade80">B (1,2)</text>
+          <text x="190" y="115" fill="#4fd1ff">A (2,3)</text>
+          <text x="50" y="55" fill="#f87171">C (0,4)</text>
+          <text x="210" y="200" fill="#9db0d8">B lies exactly on q's line</text>
+        </g>
+      </svg>
+    </div>
+
+    <div class="card">
+      <h2>The formula</h2>
+      <div class="formula">cos(a, b) = a &middot; b / (|a| |b|)</div>
+      <p style="font-size:18px;color:var(--muted);margin:0 0 12px">1 = same direction &middot; 0 = unrelated &middot; -1 = opposite. Vector length is ignored.</p>
+      <table>
+        <tr><th>Point</th><th>Euclidean</th><th>Cosine</th></tr>
+        <tr><td>A (2,3)</td><td class="g">1.000 &middot; #1</td><td>0.992 &middot; #2</td></tr>
+        <tr><td>B (1,2)</td><td class="r">2.236 &middot; #3</td><td class="g">1.000 &middot; #1</td></tr>
+        <tr><td>C (0,4)</td><td>2.000 &middot; #2</td><td class="r">0.894 &middot; #3</td></tr>
+      </table>
+      <p style="font-size:18px;margin:12px 0 0"><span class="a">The rankings disagree.</span> Embeddings store meaning in direction, so cosine is the right ruler.</p>
+    </div>
+  </div>
+
+  <div class="steps">
+    <div class="step"><b>TASK 1</b>Hand-compute both metrics on 2D points</div>
+    <div class="step"><b>TASK 2</b>NumPy brute-force top-5 on 3072-dim vectors</div>
+    <div class="step"><b>TASK 3</b>Qdrant COSINE returns the same IDs and scores</div>
+    <div class="step"><b>TASK 4</b>Normalise: cosine = dot product</div>
+    <div class="step"><b>TASK 5</b>Benchmark 1k vs 10k, brute force vs HNSW</div>
+  </div>
+
+  <div class="callout">Brute force checks every vector, O(n). An HNSW graph hops from sparse top layers down to the nearest region, roughly O(log n).</div>
+  <footer>Sentinel Vector Search &middot; Clean &rarr; Chunk &rarr; Embed &rarr; Search</footer>
+</div>
+</body>
+</html>
