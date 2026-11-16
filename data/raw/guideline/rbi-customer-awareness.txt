@@ -1,0 +1,21 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+RBI — CUSTOMER AWARENESS ON DIGITAL FRAUD
+
+Issuer: RBI   
+
+Note: synthetic summary prepared for the SENTINEL coursework corpus. It paraphrases public guidance and is not an official RBI or NPCI text.   
+
+1. Messages
+Customers should be told repeatedly that the bank will never ask for their PIN, OTP, password or CVV, never ask them to install screen-sharing apps, and never ask them to scan a QR code to receive money.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+2. Digital arrest
+A growing scam involves callers posing as police, customs or regulator officials who claim the victim is under investigation and must transfer money to a 'safe account'. No real agency arrests people over video calls or asks for money transfers.
+
+3. Role of investigators
+When a case involves social engineering, the investigator should record the script the fraudster used so that awareness messages can be updated.
+
+Page 2 of 2

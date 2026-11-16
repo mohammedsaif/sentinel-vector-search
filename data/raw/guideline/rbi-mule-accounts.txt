@@ -1,0 +1,21 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+RBI — MULE ACCOUNTS AND THEIR DETECTION
+
+Issuer: RBI
+
+Note: synthetic summary prepared for the SENTINEL coursework corpus. It paraphrases public guidance and is not an official RBI or NPCI text.   
+
+1. What a mule account is
+A mule account is a bank account used to receive and move the proceeds of fraud. The holder may be complicit, may have rented the account for a fee, or may be unaware that their KYC was misused. Mule networks let fraudsters break the money trail across many accounts and banks.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+2.  Detection
+Banks are encouraged to use data analytics and machine learning models to spot mule accounts.  Typical features include account age, the ratio of inward to outward flows, the number of unique remitters, time between credit and debit, device sharing across accounts and links to complaints on the national cybercrime portal.
+
+3. Action
+Suspected mule accounts should be frozen or debit-restricted following the bank’s policy, the holder should be contacted for an explanation, and the case should be reported. Opening accounts in bulk through the same business correspondent or the same device is a strong signal.
+
+Page 2 of 2

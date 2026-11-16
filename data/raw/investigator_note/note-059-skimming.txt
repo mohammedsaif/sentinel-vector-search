@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-61936
+
+Case SEN-2026-61936 | Typology suspected: Card skimming and cloning | Status: Escalated
+
+Summary
+Customer called the helpline to report the transaction. Customer is based in Mumbai. Disputed amount Rs 95,499 via UPI at 02:14. Session originated from Nagpur on Android device (Redmi).
+
+Observations
+Noted several cards with a common point of purchase in the days before.  Noted magstripe fallback used instead of chip.  Noted card-present transactions in a city where the customer was not. Noted customer still holds the physical card.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Checks performed
+I confirmed the customer’s location at the time.  I ran a common point of purchase analysis across affected cards.  I checked the entry mode of each transaction.
+
+Outcome
+Escalated to the senior investigator because linked accounts appear in other open cases.
+
+Page 2 of 2

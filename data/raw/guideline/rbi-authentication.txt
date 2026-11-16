@@ -1,0 +1,24 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+RBI — AUTHENTICATION OF DIGITAL PAYMENT TRANSACTIONS
+
+Issuer: RBI
+
+Note: synthetic summary prepared for the SENTINEL coursework corpus. It paraphrases public guidance and is not an official RBI or NPCI text.
+
+1. Two factors
+Digital payment transactions should be authenticated with at least two distinct factors drawn from something the customer knows, something the customer has and something the customer is. At least one factor should be dynamic, meaning it is created for the transaction and cannot be reused.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+2.  Risk-based authentication
+Entities may apply stronger checks to riskier transactions, using signals such as amount, device history, location, beneficiary history and behavioural patterns.  Low-risk transactions can follow a lighter path as long as the minimum standard is met.
+
+3. Beyond SMS OTP
+Guidance encourages moving beyond SMS one-time passwords alone, because SIM swap and OTP phishing attacks target them. Options include app-based authentication, device binding with a PIN, biometrics and passkeys.
+
+4.  Cross-border card-not-present
+For card-not-present transactions from abroad on Indian-issued cards, issuers are expected to validate the transaction when the overseas merchant or acquirer asks for authentication.
+
+Page 2 of 2

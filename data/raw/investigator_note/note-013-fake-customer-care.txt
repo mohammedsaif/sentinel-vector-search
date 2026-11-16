@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-61374
+
+Case SEN-2026-61374 | Typology suspected: Fake customer care number | Status: Customer error   
+
+Summary
+Alert raised by the real-time rules engine.  Customer is based in Delhi.  Disputed amount Rs 333,975 via internet banking at 14:30. Session originated from Chennai on Android device (Vivo).   
+
+Observations
+Noted refund or complaint was the reason for the call. Noted call with 'support' followed by a payment or app install. Noted customer says they found the number through an internet search.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Checks performed
+I recorded the number called and where it was found. I checked for other cases with the same number.
+
+Outcome
+Customer made the payment by mistake to a wrong but genuine payee. Reclassified as a wrong-credit request, not fraud.
+
+Page 2 of 2

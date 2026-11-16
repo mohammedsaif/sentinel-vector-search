@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+CHARGEBACK NARRATIVE 039
+
+Chargeback reference CB-419739 | Reason: goods not received | Merchant: ShopNova (electronics e-commerce)   
+
+Customer claim
+The customer says the order was never delivered. Amount Rs 28,570 paid via debit card.
+
+Merchant response
+The merchant re-presented the transaction and submitted delivery proof with a signature or OTP-confirmed delivery.   
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Investigation
+The dispute analyst reviewed the merchant’s evidence against the customer’s claim and the customer’s previous disputes.
+
+Decision
+Chargeback declined; the merchant's evidence was found valid. Customer informed of the ombudsman route.
+
+Page 2 of 2

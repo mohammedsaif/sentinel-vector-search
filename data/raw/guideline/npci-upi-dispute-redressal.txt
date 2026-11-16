@@ -1,0 +1,24 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+NPCI — UPI DISPUTE AND COMPLAINT REDRESSAL
+
+Issuer: NPCI   
+
+Note: synthetic summary prepared for the SENTINEL coursework corpus.  It paraphrases public guidance and is not an official RBI or NPCI text.
+
+1. Online dispute resolution
+UPI apps must let customers raise a complaint about a transaction inside the app. The complaint flows through the UPI system to the remitter bank, the beneficiary bank and the app provider so that each party can act on it within set timelines.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+2. Auto-reversal and status checks
+Many complaints are resolved automatically: if the beneficiary bank confirms that the credit did not happen, the remitter bank reverses the debit. Complaint handlers should first check the final transaction status before manual investigation.
+
+3. Escalation path
+Unresolved complaints move from the app provider to the bank, then to the NPCI dispute mechanism and finally to the ombudsman. Each step has a turnaround time that should be tracked in the case system.
+
+4. Fraud complaints
+A complaint that a customer was tricked into paying is not the same as a failed transaction. It is handled as a fraud report: the remitter bank asks the beneficiary bank to place a hold on the funds if they are still available, and the customer is advised to file a report on the national cybercrime portal.   
+
+Page 2 of 2

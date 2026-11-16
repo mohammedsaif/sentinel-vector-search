@@ -1,0 +1,25 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-35318
+
+Case SEN-2026-35318 | Typology suspected: Fake customer care number | Status: Confirmed fraud
+
+Summary
+Case received from the national cybercrime reporting system.  Customer is based in Patna.  Disputed amount Rs 440,060 via IMPS at 02:14. Session originated from Pune on iPhone.
+
+Observations
+Noted refund or complaint was the reason for the call.  Noted call with 'support' followed by a payment or app install.  Noted customer says they found the number through an internet search.   
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Customer statement
+Customer says: “My phone had no signal all evening.”
+
+Checks performed
+I recorded the number called and where it was found. I checked for other cases with the same number.
+
+Outcome
+Fraud confirmed. Partial funds frozen at the beneficiary bank; remaining amount had already moved to a second-layer account.   
+
+Page 2 of 2

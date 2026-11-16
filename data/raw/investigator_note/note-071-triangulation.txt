@@ -1,0 +1,25 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-46094
+
+Case SEN-2026-46094 | Typology suspected: Triangulation fraud on online marketplaces | Status: Customer error   
+
+Summary
+Alert raised by the real-time rules engine.  Customer is based in Patna.  Disputed amount Rs 95,870 via mobile banking at 19:21. Session originated from Bhubaneswar on iPhone.
+
+Observations
+Noted orders for high-demand electronics. Noted cardholder disputes a purchase that was delivered to a stranger. Noted shipping address differs from the cardholder's billing address.   
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Customer statement
+Customer says: “I did not do this payment.”   
+
+Checks performed
+I identified the marketplace seller who triggered the order. I compared billing and shipping details.
+
+Outcome
+Customer made the payment by mistake to a wrong but genuine payee.  Reclassified as a wrong-credit request, not fraud.   
+
+Page 2 of 2

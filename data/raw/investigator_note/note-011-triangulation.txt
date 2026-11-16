@@ -1,0 +1,25 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-74764
+
+Case SEN-2026-74764 | Typology suspected: Triangulation fraud on online marketplaces | Status: Escalated   
+
+Summary
+Case received from the national cybercrime reporting system.  Customer is based in Jamtara.  Disputed amount Rs 407,727 via UPI at 14:30. Session originated from Guwahati on Android device (Redmi).
+
+Observations
+Noted orders for high-demand electronics. Noted cardholder disputes a purchase that was delivered to a stranger. Noted shipping address differs from the cardholder's billing address.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Customer statement
+Customer says: “I did not do this payment.”
+
+Checks performed
+I identified the marketplace seller who triggered the order. I compared billing and shipping details.
+
+Outcome
+Escalated to the senior investigator because linked accounts appear in other open cases.
+
+Page 2 of 2

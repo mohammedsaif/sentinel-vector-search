@@ -1,0 +1,21 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+RBI — CARD TOKENISATION AND CARD-ON-FILE
+
+Issuer: RBI
+
+Note: synthetic summary prepared for the SENTINEL coursework corpus.  It paraphrases public guidance and is not an official RBI or NPCI text.   
+
+1.  Tokenisation
+Merchants and payment aggregators are not allowed to store actual card numbers.  Card details are replaced with tokens that are specific to the merchant and device. A stolen token is of limited use outside its context.   
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+2. Customer consent
+Tokenisation must be done only with explicit customer consent and additional factor authentication. Customers must be able to view and delete their tokens.
+
+3. Fraud angle
+Card-testing attacks and data breaches at merchants are less damaging when card-on-file data is tokenised. Investigators looking at card-not-present fraud should check whether the transaction used a token, and which token requestor created it.   
+
+Page 2 of 2

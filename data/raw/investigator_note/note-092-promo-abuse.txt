@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-10864
+
+Case SEN-2026-10864 | Typology suspected: Cashback and promotion abuse | Status: Confirmed fraud
+
+Summary
+Case received from the national cybercrime reporting system. Customer is based in Chennai. Disputed amount Rs 146,375 via mobile banking at 03:47. Session originated from Nagpur on Android device (Oppo).
+
+Observations
+Noted many new accounts on the same device or IP.  Noted cashback credited and moved out immediately.  Noted first transactions of exactly the cashback threshold amount.   
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Checks performed
+I clustered accounts by device fingerprint.  I checked the merchants used for the qualifying transaction.
+
+Outcome
+Fraud confirmed.  Partial funds frozen at the beneficiary bank; remaining amount had already moved to a second-layer account.   
+
+Page 2 of 2

@@ -1,0 +1,31 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+PLAYBOOK — CARD SKIMMING AND CLONING
+
+Playbook: Card skimming and cloning
+
+Overview
+Card data is copied at an ATM or point-of-sale terminal and used to make a cloned card.
+
+Detection signals
+- Card-present transactions in a city where the customer was not.
+- Magstripe fallback used instead of chip.
+- Several cards with a common point of purchase in the days before.
+- Customer still holds the physical card.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+What the investigator should check
+1) Run a common point of purchase analysis across affected cards.
+2) Confirm the customer's location at the time.
+3) Check the entry mode of each transaction.
+
+Containment and next steps
+- Block and reissue affected cards.
+- Inform the acquirer of the compromised terminal or ATM.
+
+Evidence to keep
+Keep device and session logs, alert delivery records, the customer's first report with its timestamp, beneficiary bank responses and every call note.  These decide the customer liability outcome and may be reviewed by the ombudsman.   
+
+Page 2 of 2

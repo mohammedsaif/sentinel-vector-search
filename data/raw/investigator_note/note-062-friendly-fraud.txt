@@ -1,0 +1,25 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-56504
+
+Case SEN-2026-56504 | Typology suspected: First-party misuse and friendly fraud | Status: Customer error   
+
+Summary
+Branch staff raised a concern and referred the case.  Customer is based in Nuh.  Disputed amount Rs 132,375 via IMPS at 06:40. Session originated from Pune on iPhone.
+
+Observations
+Noted customer has disputed several purchases with different merchants.  Noted dispute raised after the return window closed.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Customer statement
+Customer says: “I did not do this payment.”
+
+Checks performed
+I reviewed the customer’s past dispute history. I compared the device and IP with the customer’s history. I obtained delivery proof and any customer communication from the merchant.
+
+Outcome
+Customer made the payment by mistake to a wrong but genuine payee. Reclassified as a wrong-credit request, not fraud.
+
+Page 2 of 2

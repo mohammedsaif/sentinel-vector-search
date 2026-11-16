@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-49498
+
+Case SEN-2026-49498 | Typology suspected: Fake customer care number | Status: Customer error
+
+Summary
+Customer called the helpline to report the transaction. Customer is based in Delhi. Disputed amount Rs 203,726 via UPI at 01:09. Session originated from Nuh on iPhone.
+
+Observations
+Noted call with 'support' followed by a payment or app install. Noted refund or complaint was the reason for the call. Noted customer says they found the number through an internet search.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Checks performed
+I checked for other cases with the same number.  I recorded the number called and where it was found.
+
+Outcome
+Customer made the payment by mistake to a wrong but genuine payee. Reclassified as a wrong-credit request, not fraud.
+
+Page 2 of 2

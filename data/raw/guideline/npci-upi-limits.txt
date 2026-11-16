@@ -1,0 +1,21 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+NPCI — UPI TRANSACTION LIMITS
+
+Issuer: NPCI
+
+Note: synthetic summary prepared for the SENTINEL coursework corpus. It paraphrases public guidance and is not an official RBI or NPCI text.   
+
+1. Standard limit
+The standard per-transaction UPI limit for person-to-person payments is one lakh rupees, and banks can set lower limits for their customers. Many banks also cap the number of transactions per day.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+2. Higher category limits
+Certain merchant categories such as tax payments, hospitals, educational institutions, capital markets and insurance can accept higher UPI amounts. Investigators should check the merchant category code before treating a high-value transaction as unusual.
+
+3.  New user limits
+Banks and apps often apply a reduced limit for the first day after a customer registers on a new device or app.  This cooling-off limit is a key control against account takeover.
+
+Page 2 of 2

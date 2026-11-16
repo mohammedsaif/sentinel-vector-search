@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+CHARGEBACK NARRATIVE 028
+
+Chargeback reference CB-789880 | Reason: goods not received | Merchant: CityCare Hospital (hospital)   
+
+Customer claim
+The customer says the order was never delivered. Amount Rs 73,797 paid via UPI.   
+
+Merchant response
+The merchant re-presented the transaction and submitted delivery proof with a signature or OTP-confirmed delivery.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Investigation
+The dispute analyst reviewed the merchant's evidence against the customer's claim and the customer's previous disputes.
+
+Decision
+Chargeback declined; the merchant’s evidence was found valid. Customer informed of the ombudsman route.
+
+Page 2 of 2

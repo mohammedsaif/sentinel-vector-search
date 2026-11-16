@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-72411
+
+Case SEN-2026-72411 | Typology suspected: Card skimming and cloning | Status: Confirmed fraud
+
+Summary
+Alert raised by the real-time rules engine. Customer is based in Guwahati. Disputed amount Rs 316,769 via UPI at 23:52. Session originated from Hyderabad on Android device (Oppo).
+
+Observations
+Noted customer still holds the physical card. Noted magstripe fallback used instead of chip. Noted card-present transactions in a city where the customer was not. Noted several cards with a common point of purchase in the days before.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Checks performed
+I checked the entry mode of each transaction. I ran a common point of purchase analysis across affected cards.
+
+Outcome
+Case confirmed as fraud.  Customer liability assessed under the bank’s policy; recovery requested from the beneficiary bank.   
+
+Page 2 of 2

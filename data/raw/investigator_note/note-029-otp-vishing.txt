@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-95498
+
+Case SEN-2026-95498 | Typology suspected: OTP phishing and vishing | Status: Confirmed fraud
+
+Summary
+Alert raised by the real-time rules engine. Customer is based in Jaipur. Disputed amount Rs 267,587 via UPI at 14:30. Session originated from Jamtara on Android device (Samsung).   
+
+Observations
+Noted customer reports a call from someone claiming to be bank staff.  Noted customer mentions KYC update, card block or reward points.  Noted OTP requested and used within seconds. Noted card-not-present transaction at a merchant the customer never used.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Checks performed
+I looked for other customers reporting the same caller number. I checked whether the OTP was entered from the customer’s device or elsewhere.
+
+Outcome
+Fraud confirmed.  Partial funds frozen at the beneficiary bank; remaining amount had already moved to a second-layer account.
+
+Page 2 of 2

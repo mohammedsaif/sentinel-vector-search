@@ -1,0 +1,30 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+RBI — KNOW YOUR CUSTOMER AND CUSTOMER DUE DILIGENCE
+
+Issuer: RBI   
+
+Note: synthetic summary prepared for the SENTINEL coursework corpus. It paraphrases public guidance and is not an official RBI or NPCI text.
+
+1. Risk categorisation
+Customers are placed in low, medium or high risk categories based on identity, occupation, geography, nature of business, expected transaction pattern and delivery channel. The category decides how often KYC is refreshed and how closely transactions are watched.
+
+Page 1 of 3
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+2. Periodic updation
+KYC must be refreshed periodically: more often for high-risk customers and less often for low-risk ones. A failed or overdue KYC refresh is a useful signal when an account suddenly starts receiving many credits.
+
+3. Video KYC
+Video-based customer identification is allowed when it is carried out live by trained staff, with liveness checks, geo-tagging inside India, capture of an official document and random questions. Recorded sessions must be kept for audit.
+
+4.  Beneficial ownership
+For companies, partnerships and trusts, the entity must identify the natural persons who ultimately own or control the customer.  Shell entities with nominee directors are a common vehicle for mule accounts and transaction laundering.
+
+Page 2 of 3
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+5. Monitoring
+Accounts should be monitored against the declared profile. A student account that receives hundreds of small UPI credits from unrelated people and moves the money out within minutes does not match its profile and should be reviewed.
+
+Page 3 of 3

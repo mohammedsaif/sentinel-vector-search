@@ -1,0 +1,32 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+PLAYBOOK — REMOTE ACCESS APP SCAM
+
+Playbook: Remote access app scam
+
+Overview
+The victim is persuaded to install a screen-sharing or remote-control app, after which the fraudster watches them enter credentials or operates the phone directly.
+
+Detection signals
+- A remote access application was installed shortly before the transactions.
+- Screen-sharing session active during the banking session.
+- Transactions made while the customer was on a call.
+- Unusual touch or typing patterns compared with the customer's behaviour.   
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+What the investigator should check
+1) Review the app’s security telemetry for remote access tools.
+2) Compare session behaviour biometrics with the customer’s history.
+3) Establish who suggested installing the app and why.
+
+Containment and next steps
+- Advise the customer to uninstall the app and reset credentials.
+- Block the device until it is cleaned.
+- Update app controls to block known remote access tools.   
+
+Evidence to keep
+Keep device and session logs, alert delivery records, the customer's first report with its timestamp, beneficiary bank responses and every call note. These decide the customer liability outcome and may be reviewed by the ombudsman.   
+
+Page 2 of 2

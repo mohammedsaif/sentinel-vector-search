@@ -1,0 +1,25 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-53036
+
+Case SEN-2026-53036 | Typology suspected: Refund abuse | Status: Confirmed fraud
+
+Summary
+Customer called the helpline to report the transaction. Customer is based in Kochi. Disputed amount Rs 289,371 via UPI at 11:05. Session originated from Nuh on Android device (Realme).
+
+Observations
+Noted refunds without a matching original transaction.  Noted refunds issued to a different card or account than the original payment.  Noted the same staff member approving many refunds.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Customer statement
+Customer says: “I only shared the code to get my refund.”   
+
+Checks performed
+I reviewed the approver of each refund.  I matched each refund to the original transaction.
+
+Outcome
+Case confirmed as fraud.  Customer liability assessed under the bank’s policy; recovery requested from the beneficiary bank.   
+
+Page 2 of 2

@@ -1,0 +1,25 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-72424
+
+Case SEN-2026-72424 | Typology suspected: Job scam used to recruit mules | Status: Confirmed fraud   
+
+Summary
+Customer called the helpline to report the transaction. Customer is based in Delhi. Disputed amount Rs 196,404 via IMPS at 02:14. Session originated from Kochi on Android device (Realme).
+
+Observations
+Noted customer says they were offered a work-from-home job.  Noted messages mention commission on each transfer.  Noted young customer with a new account and sudden high volume.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Customer statement
+Customer says: “My phone had no signal all evening.”
+
+Checks performed
+I identified the accounts they forwarded money to.  I interviewed the account holder about how they got the job.
+
+Outcome
+Fraud confirmed. Partial funds frozen at the beneficiary bank; remaining amount had already moved to a second-layer account.   
+
+Page 2 of 2

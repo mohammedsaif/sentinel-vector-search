@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-87176
+
+Case SEN-2026-87176 | Typology suspected: Fake customer care number | Status: Customer error
+
+Summary
+Branch staff raised a concern and referred the case. Customer is based in Guwahati. Disputed amount Rs 445,086 via UPI at 23:52. Session originated from Hyderabad on Android device (Vivo).
+
+Observations
+Noted refund or complaint was the reason for the call. Noted customer says they found the number through an internet search. Noted call with 'support' followed by a payment or app install.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Checks performed
+I recorded the number called and where it was found. I checked for other cases with the same number.
+
+Outcome
+Customer made the payment by mistake to a wrong but genuine payee.  Reclassified as a wrong-credit request, not fraud.
+
+Page 2 of 2

@@ -1,0 +1,29 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+PLAYBOOK — FAKE CUSTOMER CARE NUMBER
+
+Playbook: Fake customer care number
+
+Overview
+Victims search online for a helpline, call a fake number and are guided to share details or install apps.   
+
+Detection signals
+- Customer says they found the number through an internet search.
+- Call with 'support' followed by a payment or app install.
+- Refund or complaint was the reason for the call.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+What the investigator should check
+1) Record the number called and where it was found.
+2) Check for other cases with the same number.
+
+Containment and next steps
+- Report the number and listing for takedown.
+- Publish the official helpline prominently.
+
+Evidence to keep
+Keep device and session logs, alert delivery records, the customer’s first report with its timestamp, beneficiary bank responses and every call note. These decide the customer liability outcome and may be reviewed by the ombudsman.   
+
+Page 2 of 2

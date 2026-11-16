@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+CHARGEBACK NARRATIVE 086
+
+Chargeback reference CB-593515 | Reason: goods not received | Merchant: StreamBay (OTT subscription)
+
+Customer claim
+The customer says the order was never delivered. Amount Rs 5,267 paid via wallet.
+
+Merchant response
+The merchant did not submit sufficient evidence within the re-presentment window.   
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Investigation
+The dispute analyst found that the courier tracking shows the parcel returned to origin.   
+
+Decision
+Chargeback accepted in the customer’s favour; amount credited back.   
+
+Page 2 of 2

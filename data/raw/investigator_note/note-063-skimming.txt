@@ -1,0 +1,25 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-96787
+
+Case SEN-2026-96787 | Typology suspected: Card skimming and cloning | Status: Escalated
+
+Summary
+Customer called the helpline to report the transaction.  Customer is based in Jamtara.  Disputed amount Rs 293,102 via UPI at 22:18. Session originated from Patna on Android emulator.   
+
+Observations
+Noted several cards with a common point of purchase in the days before. Noted magstripe fallback used instead of chip.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Customer statement
+Customer says: “I was told to keep the video call on.”   
+
+Checks performed
+I ran a common point of purchase analysis across affected cards. I checked the entry mode of each transaction. I confirmed the customer’s location at the time.
+
+Outcome
+Escalated to the senior investigator because linked accounts appear in other open cases.
+
+Page 2 of 2

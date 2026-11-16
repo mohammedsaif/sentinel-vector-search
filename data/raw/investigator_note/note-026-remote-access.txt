@@ -1,0 +1,25 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-64596
+
+Case SEN-2026-64596 | Typology suspected: Remote access app scam | Status: Customer error   
+
+Summary
+Customer called the helpline to report the transaction. Customer is based in Kochi. Disputed amount Rs 442,811 via mobile banking at 09:55. Session originated from Jamtara on Android device (Realme).   
+
+Observations
+Noted a remote access application was installed shortly before the transactions. Noted transactions made while the customer was on a call. Noted screen-sharing session active during the banking session. Noted unusual touch or typing patterns compared with the customer's behaviour.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Customer statement
+Customer says: “Someone called me saying my KYC was expiring.”
+
+Checks performed
+I established who suggested installing the app and why.  I reviewed the app’s security telemetry for remote access tools.   
+
+Outcome
+Customer made the payment by mistake to a wrong but genuine payee. Reclassified as a wrong-credit request, not fraud.
+
+Page 2 of 2

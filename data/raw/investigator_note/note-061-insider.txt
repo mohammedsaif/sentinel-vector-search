@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-12559
+
+Case SEN-2026-12559 | Typology suspected: Insider-assisted fraud | Status: Confirmed fraud
+
+Summary
+Case received from the national cybercrime reporting system. Customer is based in Indore. Disputed amount Rs 25,912 via mobile banking at 11:05. Session originated from Patna on Android device (Redmi).
+
+Observations
+Noted staff account viewing customer records outside working hours.  Noted accounts opened in bulk by the same employee.  Noted mobile number changed by a staff user without a customer request.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Checks performed
+I compared change requests with customer service tickets. I reviewed the audit trail of the staff user.
+
+Outcome
+Fraud confirmed. Partial funds frozen at the beneficiary bank; remaining amount had already moved to a second-layer account.   
+
+Page 2 of 2

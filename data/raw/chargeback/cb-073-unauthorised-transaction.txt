@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+CHARGEBACK NARRATIVE 073
+
+Chargeback reference CB-589638 | Reason: unauthorised transaction | Merchant: RechargePe (mobile recharge)   
+
+Customer claim
+The customer says they did not make or authorise the payment. Amount Rs 21,325 paid via UPI.
+
+Merchant response
+The merchant did not submit sufficient evidence within the re-presentment window.   
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Investigation
+The dispute analyst found that the payment came from a newly registered device in another state.
+
+Decision
+Chargeback accepted in the customer’s favour; amount credited back.   
+
+Page 2 of 2

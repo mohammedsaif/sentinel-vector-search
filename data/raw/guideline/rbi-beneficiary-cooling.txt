@@ -1,0 +1,21 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+RBI — CONTROLS ON NEW BENEFICIARIES AND FIRST TRANSACTIONS
+
+Issuer: RBI
+
+Note: synthetic summary prepared for the SENTINEL coursework corpus. It paraphrases public guidance and is not an official RBI or NPCI text.
+
+1.  Cooling period
+Many banks apply a cooling period after a beneficiary is added, during which only a small amount can be sent.  This gives the genuine customer time to see the alert and stop an attacker.   
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+2. Name check
+Showing the beneficiary's registered name before the payment is confirmed helps customers spot when they are about to pay someone unexpected.
+
+3.  Signals
+Adding several beneficiaries in a short time, adding a beneficiary right after a password or device change, or sending the first transfer to a new beneficiary at night are all risk signals.   
+
+Page 2 of 2

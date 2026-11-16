@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+CHARGEBACK NARRATIVE 041
+
+Chargeback reference CB-649249 | Reason: duplicate debit | Merchant: PlayVault (gaming wallet)
+
+Customer claim
+The customer was charged twice for one purchase. Amount Rs 79,159 paid via credit card.   
+
+Merchant response
+The merchant re-presented the transaction and submitted proof that two separate orders were placed.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Investigation
+The dispute analyst reviewed the merchant’s evidence against the customer’s claim and the customer’s previous disputes.   
+
+Decision
+Chargeback declined; the merchant’s evidence was found valid. Customer informed of the ombudsman route.
+
+Page 2 of 2

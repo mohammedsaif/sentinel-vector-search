@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-51288
+
+Case SEN-2026-51288 | Typology suspected: Investment and task scam | Status: Customer error
+
+Summary
+Customer called the helpline to report the transaction. Customer is based in Ahmedabad. Disputed amount Rs 101,981 via UPI at 23:52. Session originated from Patna on Android device (OnePlus).   
+
+Observations
+Noted beneficiary accounts change frequently.  Noted small credits returned to the victim early on.  Noted several payments of increasing size to different accounts over days.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Checks performed
+I built the timeline of payments and any small returns. I recorded the platform or app name the victim used.   
+
+Outcome
+Customer made the payment by mistake to a wrong but genuine payee. Reclassified as a wrong-credit request, not fraud.   
+
+Page 2 of 2

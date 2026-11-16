@@ -1,0 +1,21 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+RBI — PREPAID PAYMENT INSTRUMENTS
+
+Issuer: RBI
+
+Note: synthetic summary prepared for the SENTINEL coursework corpus. It paraphrases public guidance and is not an official RBI or NPCI text.
+
+1. Types
+Prepaid wallets come in small and full-KYC variants. Small PPIs have low loading limits and cannot be used for cash withdrawal or fund transfer to bank accounts. Full-KYC PPIs have higher limits and broader use.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+2.  Fraud risk
+Wallets are attractive for layering stolen money because loads and spends are fast.  Watch for many wallets loaded from one card, wallets loaded and emptied within minutes, and wallets linked to devices seen in other fraud cases.
+
+3. Liability
+The customer liability framework for unauthorised transactions also applies to PPIs, so wallet issuers must keep the same evidence as banks.
+
+Page 2 of 2

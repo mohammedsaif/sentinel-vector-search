@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-79226
+
+Case SEN-2026-79226 | Typology suspected: Remote access app scam | Status: Customer error
+
+Summary
+Customer called the helpline to report the transaction.  Customer is based in Jaipur.  Disputed amount Rs 32,184 via UPI at 19:21. Session originated from Mumbai on Android device (Redmi).   
+
+Observations
+Noted unusual touch or typing patterns compared with the customer’s behaviour. Noted screen-sharing session active during the banking session.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Checks performed
+I reviewed the app's security telemetry for remote access tools. I compared session behaviour biometrics with the customer's history.
+
+Outcome
+Customer made the payment by mistake to a wrong but genuine payee. Reclassified as a wrong-credit request, not fraud.
+
+Page 2 of 2

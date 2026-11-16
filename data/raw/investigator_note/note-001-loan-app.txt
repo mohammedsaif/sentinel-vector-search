@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-23979
+
+Case SEN-2026-23979 | Typology suspected: Fraudulent loan app | Status: Confirmed fraud   
+
+Summary
+Branch staff raised a concern and referred the case.  Customer is based in Patna.  Disputed amount Rs 46,996 via UPI at 06:40. Session originated from Jaipur on iPhone.
+
+Observations
+Noted customer reports threats or morphed photos. Noted app not linked to any regulated lender. Noted customer pays many small amounts to different accounts described as loan repayment.   
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Checks performed
+I listed all beneficiary accounts the customer paid. I checked whether the lender named in the app is regulated.   
+
+Outcome
+Case confirmed as fraud.  Customer liability assessed under the bank's policy; recovery requested from the beneficiary bank.
+
+Page 2 of 2

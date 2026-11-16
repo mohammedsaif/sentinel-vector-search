@@ -1,0 +1,30 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+RBI — FRAUD RISK MANAGEMENT AND FRAUD REPORTING BY BANKS
+
+Issuer: RBI   
+
+Note: synthetic summary prepared for the SENTINEL coursework corpus. It paraphrases public guidance and is not an official RBI or NPCI text.
+
+1. Scope
+Banks are expected to have a board-approved fraud risk management policy, a dedicated fraud risk management function and a special committee of the board that monitors large-value frauds. The policy must cover prevention, early detection, investigation, reporting to the regulator and to law enforcement, and staff accountability.
+
+Page 1 of 3
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+2. Early warning signals
+Banks should run an early warning signal framework for credit and transaction accounts. Signals include sudden spikes in transaction volume, frequent changes of registered mobile number or email, many small credits followed by rapid withdrawals, and transactions with entities already flagged. Accounts that breach thresholds are red-flagged and reviewed within a fixed time.
+
+3. Natural justice
+Before an account holder or borrower is classified as a fraud, the bank must give them notice of the findings and a reasonable opportunity to respond. The decision must be recorded with reasons. Investigators should keep their notes factual and evidence-based because they may be shared in this process.
+
+4.  Reporting
+Frauds must be reported to the regulator through the prescribed online system within the defined timeline after detection, and cases above a threshold must be referred to law enforcement.  Delayed reporting is itself a supervisory concern, so the date of detection must be recorded accurately in the case management system.   
+
+Page 2 of 3
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+5.  Staff accountability
+Every fraud case should include a staff accountability review that checks whether controls were bypassed, whether alerts were ignored and whether any employee was involved.  Findings feed back into process changes and training.   
+
+Page 3 of 3

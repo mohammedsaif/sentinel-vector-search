@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+CHARGEBACK NARRATIVE 070
+
+Chargeback reference CB-888977 | Reason: cancelled subscription | Merchant: PlayVault (gaming wallet)
+
+Customer claim
+The customer cancelled a subscription but was charged again. Amount Rs 54,820 paid via wallet.
+
+Merchant response
+The merchant re-presented the transaction and submitted the active mandate record and usage after the claimed cancellation.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Investigation
+The dispute analyst reviewed the merchant’s evidence against the customer’s claim and the customer’s previous disputes.
+
+Decision
+Chargeback declined; the merchant’s evidence was found valid. Customer informed of the ombudsman route.
+
+Page 2 of 2

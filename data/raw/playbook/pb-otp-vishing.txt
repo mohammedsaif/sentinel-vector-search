@@ -1,0 +1,34 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+PLAYBOOK — OTP PHISHING AND VISHING
+
+Playbook: OTP phishing and vishing   
+
+Overview
+A fraudster calls or messages the customer pretending to be the bank, a courier or a utility, and tricks them into sharing an OTP or card details.
+
+Detection signals
+- Customer reports a call from someone claiming to be bank staff.
+- OTP requested and used within seconds.
+- Card-not-present transaction at a merchant the customer never used.
+- Customer mentions KYC update, card block or reward points.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+What the investigator should check
+1) Listen to or read the customer's account of the call and note the script.
+2) Check whether the OTP was entered from the customer's device or elsewhere.
+3) Check the merchant and acquirer of the transaction.
+4) Look for other customers reporting the same caller number.   
+
+Containment and next steps
+- Block the card and reissue.
+- Raise a chargeback where the network rules allow it.
+- Record the customer’s sharing of the OTP for the liability decision.
+- Report the caller number to the telecom regulator portal.   
+
+Evidence to keep
+Keep device and session logs, alert delivery records, the customer's first report with its timestamp, beneficiary bank responses and every call note. These decide the customer liability outcome and may be reviewed by the ombudsman.   
+
+Page 2 of 2

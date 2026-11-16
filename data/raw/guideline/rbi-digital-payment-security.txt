@@ -1,0 +1,30 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+RBI — DIGITAL PAYMENT SECURITY CONTROLS
+
+Issuer: RBI
+
+Note: synthetic summary prepared for the SENTINEL coursework corpus.  It paraphrases public guidance and is not an official RBI or NPCI text.   
+
+1. Governance
+Regulated entities offering internet and mobile banking or card payments must put in place a governance framework for digital payment security that is approved by the board. It should cover risk assessment of each product, secure development, testing before release and periodic review.
+
+Page 1 of 3
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+2. Device and application security
+Mobile banking and UPI applications should bind the customer to a specific device and SIM, detect rooted or jail-broken phones, block screen overlay and screen-recording where possible, and refuse to run when remote access tools are detected. Applications must time out idle sessions and must not store credentials in plain text.   
+
+3. Transaction monitoring
+Entities should monitor transactions in real time using rules and risk scoring. Typical controls include velocity limits on the number and value of transactions, limits on new payees, extra checks for a first transaction from a new device, and alerts when the location or behaviour of a session is unusual.
+
+4. Customer alerts
+Customers must receive an alert for every transaction and for every change to sensitive settings such as mobile number, email, device registration or limits. Alerts should say how to report a transaction the customer does not recognise.
+
+Page 2 of 3
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+5.  Change of device
+When a customer registers a new device, the entity should apply a cooling period or reduced limits for high-value transactions, re-verify the customer through more than one factor, and notify the old contact details.  A new device followed quickly by a large payment to a new beneficiary is a classic account-takeover pattern.   
+
+Page 3 of 3

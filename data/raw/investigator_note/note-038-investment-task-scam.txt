@@ -1,0 +1,25 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-80220
+
+Case SEN-2026-80220 | Typology suspected: Investment and task scam | Status: Customer error
+
+Summary
+Case received from the national cybercrime reporting system. Customer is based in Bengaluru. Disputed amount Rs 233,588 via internet banking at 01:09. Session originated from Kochi on Android device (Samsung).   
+
+Observations
+Noted beneficiary accounts change frequently. Noted several payments of increasing size to different accounts over days. Noted payments described as deposit, upgrade fee or tax for withdrawal. Noted small credits returned to the victim early on.   
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Customer statement
+Customer says: “My phone had no signal all evening.”
+
+Checks performed
+I built the timeline of payments and any small returns. I recorded the platform or app name the victim used.   
+
+Outcome
+Customer made the payment by mistake to a wrong but genuine payee. Reclassified as a wrong-credit request, not fraud.
+
+Page 2 of 2

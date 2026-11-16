@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-37752
+
+Case SEN-2026-37752 | Typology suspected: Card skimming and cloning | Status: Confirmed fraud
+
+Summary
+Customer called the helpline to report the transaction.  Customer is based in Nagpur.  Disputed amount Rs 107,161 via UPI at 09:55. Session originated from Bhubaneswar on Android device (Redmi).   
+
+Observations
+Noted magstripe fallback used instead of chip. Noted card-present transactions in a city where the customer was not.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Checks performed
+I checked the entry mode of each transaction.  I confirmed the customer’s location at the time.
+
+Outcome
+Fraud confirmed. Partial funds frozen at the beneficiary bank; remaining amount had already moved to a second-layer account.
+
+Page 2 of 2

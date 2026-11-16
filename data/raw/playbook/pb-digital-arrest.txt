@@ -1,0 +1,32 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+PLAYBOOK — DIGITAL ARREST IMPERSONATION SCAM
+
+Playbook: Digital arrest impersonation scam   
+
+Overview
+Callers posing as police, customs or a regulator tell the victim they are implicated in a crime and keep them on a video call until they transfer money to a 'verification' account.
+
+Detection signals
+- Customer was on a long video call during the transfers.
+- Large transfers, often from fixed deposits broken the same day.
+- Customer mentions police, customs, a parcel with drugs or a court order.
+- Transfers to accounts with no prior relationship.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+What the investigator should check
+1) Confirm whether a fixed deposit was closed or a loan taken before the transfer.
+2) Check whether branch staff noticed distress.
+3) Trace beneficiary accounts quickly because funds move fast.
+
+Containment and next steps
+- Raise immediate hold requests.
+- Help the customer file a report on the 1930 helpline.
+- Flag elderly customers for branch-level checks on large FD closures.   
+
+Evidence to keep
+Keep device and session logs, alert delivery records, the customer's first report with its timestamp, beneficiary bank responses and every call note. These decide the customer liability outcome and may be reviewed by the ombudsman.
+
+Page 2 of 2

@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-90828
+
+Case SEN-2026-90828 | Typology suspected: Cashback and promotion abuse | Status: Customer error   
+
+Summary
+Case received from the national cybercrime reporting system. Customer is based in Guwahati. Disputed amount Rs 350,544 via card-not-present at 19:21. Session originated from Kolkata on Android device (Realme).   
+
+Observations
+Noted many new accounts on the same device or IP. Noted first transactions of exactly the cashback threshold amount.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Checks performed
+I checked the merchants used for the qualifying transaction. I clustered accounts by device fingerprint.
+
+Outcome
+Customer made the payment by mistake to a wrong but genuine payee.  Reclassified as a wrong-credit request, not fraud.
+
+Page 2 of 2

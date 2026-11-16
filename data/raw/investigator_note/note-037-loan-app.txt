@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-94108
+
+Case SEN-2026-94108 | Typology suspected: Fraudulent loan app | Status: Confirmed fraud   
+
+Summary
+Branch staff raised a concern and referred the case.  Customer is based in Guwahati.  Disputed amount Rs 55,886 via UPI at 03:47. Session originated from Coimbatore on Android device (Redmi).
+
+Observations
+Noted app not linked to any regulated lender. Noted customer reports threats or morphed photos.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Checks performed
+I checked whether the lender named in the app is regulated. I listed all beneficiary accounts the customer paid.
+
+Outcome
+Fraud confirmed. Partial funds frozen at the beneficiary bank; remaining amount had already moved to a second-layer account.   
+
+Page 2 of 2

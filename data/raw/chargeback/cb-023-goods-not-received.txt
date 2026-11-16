@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+CHARGEBACK NARRATIVE 023
+
+Chargeback reference CB-908688 | Reason: goods not received | Merchant: TiffinGo (food delivery)   
+
+Customer claim
+The customer says the order was never delivered.  Amount Rs 82,162 paid via UPI.
+
+Merchant response
+The merchant did not submit sufficient evidence within the re-presentment window.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Investigation
+The dispute analyst found that the courier tracking shows the parcel returned to origin.
+
+Decision
+Chargeback accepted in the customer's favour; amount credited back.   
+
+Page 2 of 2

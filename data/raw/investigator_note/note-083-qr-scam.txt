@@ -1,0 +1,25 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-18130
+
+Case SEN-2026-18130 | Typology suspected: QR code and 'scan to receive' scam | Status: Confirmed fraud
+
+Summary
+Case received from the national cybercrime reporting system. Customer is based in Kolkata. Disputed amount Rs 470,769 via UPI at 02:14. Session originated from Kochi on Android device (Realme).
+
+Observations
+Noted victim was selling an item on an online marketplace.  Noted payment note says ’receive’ or ’refund’.  Noted several small payments followed by a larger one to the same payee. Noted payee VPA created recently.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Customer statement
+Customer says: “I only shared the code to get my refund.”
+
+Checks performed
+I checked the transaction notes and the QR code source if available.  I checked how many other payers sent money to the same VPA.
+
+Outcome
+Fraud confirmed. Partial funds frozen at the beneficiary bank; remaining amount had already moved to a second-layer account.
+
+Page 2 of 2

@@ -1,0 +1,21 @@
+{
+  "documents": 234,
+  "duplicates_dropped": 6,
+  "documents_by_type": {
+    "chargeback": 92,
+    "guideline": 28,
+    "investigator_note": 92,
+    "playbook": 22
+  },
+  "chunks": 270,
+  "chunk_size_chars": 900,
+  "chunk_overlap_chars": 150,
+  "chunk_length_median": 661,
+  "embedding_provider": "euri",
+  "embedding_model": "gemini-embedding-2-preview",
+  "vector_size": 3072,
+  "distance": "Cosine",
+  "collection": "sentinel_corpus",
+  "points_in_collection": 270,
+  "seconds": 16.1
+}

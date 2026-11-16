@@ -1,0 +1,29 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+PLAYBOOK — FRAUDULENT LOAN APP
+
+Playbook: Fraudulent loan app
+
+Overview
+An unregistered lending app collects contacts and photos, gives a small loan and then extorts repayment far above the loan amount by threatening borrowers.   
+
+Detection signals
+- Customer pays many small amounts to different accounts described as loan repayment.
+- Customer reports threats or morphed photos.
+- App not linked to any regulated lender.   
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+What the investigator should check
+1) Check whether the lender named in the app is regulated.
+2) List all beneficiary accounts the customer paid.
+
+Containment and next steps
+- Report the app and beneficiary accounts.
+- Advise the customer on how to report harassment.
+
+Evidence to keep
+Keep device and session logs, alert delivery records, the customer’s first report with its timestamp, beneficiary bank responses and every call note.  These decide the customer liability outcome and may be reviewed by the ombudsman.
+
+Page 2 of 2

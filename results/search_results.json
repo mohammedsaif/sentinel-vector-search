@@ -1,0 +1,565 @@
+[
+  {
+    "query": "What should an investigator check when a new device makes a large payment?",
+    "filter": null,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.7979,
+        "doc_type": "playbook",
+        "source_document": "playbook/pb-ato-new-device.txt",
+        "chunk_number": 1,
+        "title": "Playbook — Account Takeover From A New Device",
+        "text": "Playbook: Account takeover from a new device Overview: An attacker gains control of the customer's mobile or internet banking, registers a new device and quickly drains the account through high-value payments to new payees. Detection signals: - First login from a device never seen on the account. - UPI PIN reset or password reset minutes before the payment. - High-value payment to a beneficiary added the same day. - Login location far from the customer's usual city. - Transaction at an unusual hour for this customer. - Old device still active in the same period. What the investigator should check: 1) Compare the device fingerprint with the customer's device history. 2) Check the time gap between device registration, PIN reset and payment. 3) Check whether the registered mobile number or email changed recently. 4) Call the customer on the number held before any recent change."
+      },
+      {
+        "rank": 2,
+        "score": 0.7914,
+        "doc_type": "guideline",
+        "source_document": "guideline/rbi-digital-payment-security.txt",
+        "chunk_number": 3,
+        "title": "RBI — Digital Payment Security Controls",
+        "text": "A new device followed quickly by a large payment to a new beneficiary is a classic account-takeover pattern."
+      },
+      {
+        "rank": 3,
+        "score": 0.7743,
+        "doc_type": "investigator_note",
+        "source_document": "investigator_note/note-090-ato-new-device.txt",
+        "chunk_number": 1,
+        "title": "Investigator Note SEN-2026-86269",
+        "text": "Case SEN-2026-86269 | Typology suspected: Account takeover from a new device | Status: Escalated Summary: Branch staff raised a concern and referred the case. Customer is based in Patna. Disputed amount Rs 206,883 via UPI at 14:30. Session originated from Jamtara on Android device (Vivo). Observations: Noted UPI PIN reset or password reset minutes before the payment. Noted first login from a device never seen on the account. Noted high-value payment to a beneficiary added the same day. Noted login location far from the customer's usual city. Checks performed: I reviewed IP address and geolocation against previous sessions. I checked the time gap between device registration, PIN reset and payment. I checked whether the registered mobile number or email changed recently. Outcome: Escalated to the senior investigator because linked accounts appear in other open cases."
+      },
+      {
+        "rank": 4,
+        "score": 0.7601,
+        "doc_type": "investigator_note",
+        "source_document": "investigator_note/note-065-ato-new-device.txt",
+        "chunk_number": 1,
+        "title": "Investigator Note SEN-2026-51774",
+        "text": "Case SEN-2026-51774 | Typology suspected: Account takeover from a new device | Status: False positive Summary: Alert raised by the real-time rules engine. Customer is based in Hyderabad. Disputed amount Rs 444,911 via card-not-present at 23:52. Session originated from Lucknow on Android device (Realme). Observations: Noted high-value payment to a beneficiary added the same day. Noted UPI PIN reset or password reset minutes before the payment. Customer statement: Customer says: \"I did not do this payment.\" Checks performed: I checked the time gap between device registration, PIN reset and payment. I compared the device fingerprint with the customer's device history. I checked whether the beneficiary account has other fraud complaints. Outcome: Customer confirmed the transaction as genuine. Alert closed as a false positive; rule threshold noted for tuning."
+      },
+      {
+        "rank": 5,
+        "score": 0.7581,
+        "doc_type": "playbook",
+        "source_document": "playbook/pb-ato-new-device.txt",
+        "chunk_number": 2,
+        "title": "Playbook — Account Takeover From A New Device",
+        "text": "3) Check whether the registered mobile number or email changed recently. 4) Call the customer on the number held before any recent change. 5) Check whether the beneficiary account has other fraud complaints. 6) Review IP address and geolocation against previous sessions. Containment and next steps: - Block the new device and force re-registration. - Place a hold request with the beneficiary bank. - Reset credentials after verifying the customer in person or by video. - Advise the customer to report on the 1930 helpline. Evidence to keep: Keep device and session logs, alert delivery records, the customer's first report with its timestamp, beneficiary bank responses and every call note. These decide the customer liability outcome and may be reviewed by the ombudsman."
+      }
+    ]
+  },
+  {
+    "query": "A customer reported an unauthorised debit five days after the alert. How much of the loss do they bear?",
+    "filter": null,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.821,
+        "doc_type": "guideline",
+        "source_document": "guideline/rbi-customer-liability.txt",
+        "chunk_number": 2,
+        "title": "RBI — Customer Liability In Unauthorised Electronic Banking Transactions",
+        "text": "3. Limited liability: When the customer reports a third-party breach between four and seven working days after the alert, liability is limited to the transaction value or a fixed cap, whichever is lower. The cap depends on the account type: about five thousand rupees for basic savings accounts, ten thousand rupees for most savings accounts and smaller credit cards, and twenty-five thousand rupees for current accounts and higher-limit credit cards. Reports made after seven working days are handled under the bank's board-approved policy. 4. Customer negligence: Where the loss is due to the customer's own negligence, such as sharing a password, PIN or OTP, the customer bears the full loss until the unauthorised transaction is reported. Any loss after the report is borne by the bank."
+      },
+      {
+        "rank": 2,
+        "score": 0.8026,
+        "doc_type": "guideline",
+        "source_document": "guideline/rbi-customer-liability.txt",
+        "chunk_number": 1,
+        "title": "RBI — Customer Liability In Unauthorised Electronic Banking Transactions",
+        "text": "Issuer: RBI 1. Purpose: This guidance sets out how much of a loss a customer bears when money leaves their account through an electronic transaction they did not authorise. It covers internet banking, mobile banking, UPI, card-present and card-not-present transactions, and prepaid instruments issued by banks. The aim is to give customers confidence in digital channels while making banks responsible for the security of the systems they run. 2. Zero liability: A customer has zero liability when the unauthorised transaction happened because of contributory fraud, negligence or a deficiency on the part of the bank, whether or not the customer reported it. A customer also has zero liability when the breach lies elsewhere in the system, neither with the bank nor with the customer, provided the customer tells the bank within three working days of receiving the transaction alert."
+      },
+      {
+        "rank": 3,
+        "score": 0.7909,
+        "doc_type": "guideline",
+        "source_document": "guideline/rbi-customer-liability.txt",
+        "chunk_number": 3,
+        "title": "RBI — Customer Liability In Unauthorised Electronic Banking Transactions",
+        "text": "Any loss after the report is borne by the bank. Investigators should therefore record exactly when the customer first reported the issue and through which channel. 5. Bank obligations: The bank must credit the disputed amount to the customer's account as a shadow reversal within ten working days of the report, without waiting for an insurance claim. The complaint must be resolved and liability established within ninety days. The burden of proving customer liability lies on the bank, so case files must hold logs, device data and alert delivery records. 6. Reporting channels: Banks must give customers round-the-clock ways to report unauthorised transactions, including a website link, an SMS reply option, a toll-free number and a branch option. Each report must be acknowledged immediately with a complaint number and a timestamp, because the timestamp decides which liability band applies."
+      },
+      {
+        "rank": 4,
+        "score": 0.7056,
+        "doc_type": "guideline",
+        "source_document": "guideline/rbi-failed-transactions-tat.txt",
+        "chunk_number": 1,
+        "title": "RBI — Turnaround Time For Failed Transactions And Compensation",
+        "text": "Issuer: RBI 1. Principle: When a transaction fails because of a technical issue, communication failure or non-availability of funds at the beneficiary end, the customer's money must be returned within a defined turnaround time. If the provider misses that time, it must pay compensation to the customer without the customer having to ask. 2. UPI: For a UPI transaction where the customer's account is debited but the beneficiary account is not credited, the amount should be auto-reversed by the next working day. Delays beyond that attract compensation of one hundred rupees per day. 3. Cards and ATMs: For an ATM withdrawal where the account is debited but cash is not dispensed, the reversal should happen within five days. For card transactions at merchants, the acquirer should complete the reversal within the prescribed time. 4. Dispute handling:"
+      },
+      {
+        "rank": 5,
+        "score": 0.7039,
+        "doc_type": "playbook",
+        "source_document": "playbook/pb-loan-app.txt",
+        "chunk_number": 2,
+        "title": "Playbook — Fraudulent Loan App",
+        "text": "Keep device and session logs, alert delivery records, the customer's first report with its timestamp, beneficiary bank responses and every call note. These decide the customer liability outcome and may be reviewed by the ombudsman."
+      }
+    ]
+  },
+  {
+    "query": "How do we spot an account that receives money from many victims and moves it out quickly?",
+    "filter": null,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.7984,
+        "doc_type": "playbook",
+        "source_document": "playbook/pb-mule-account.txt",
+        "chunk_number": 1,
+        "title": "Playbook — Mule Account Receiving Fraud Proceeds",
+        "text": "Playbook: Mule account receiving fraud proceeds Overview: An account receives money from many unrelated victims and moves it out within minutes to other accounts, wallets or cash withdrawals. Detection signals: - Many inward credits from unrelated remitters in a short time. - Outward transfers within minutes of each credit. - Account recently opened or long dormant and suddenly active. - Balance kept close to zero. - Same device or IP used by other flagged accounts. - Complaints on the national cybercrime portal naming the account. What the investigator should check: 1) Calculate inflow-outflow ratio and average holding time. 2) Map onward transfers to find the next layer. 3) Check whether the account holder's profile matches the volume. 4) Check the business correspondent or branch that opened the account. Containment and next steps: - Debit-freeze the account under policy."
+      },
+      {
+        "rank": 2,
+        "score": 0.7467,
+        "doc_type": "playbook",
+        "source_document": "playbook/pb-job-scam-mule.txt",
+        "chunk_number": 1,
+        "title": "Playbook — Job Scam Used To Recruit Mules",
+        "text": "Playbook: Job scam used to recruit mules Overview: Victims are offered part-time work such as 'payment processing' or 'rating products' and are asked to receive and forward money through their accounts. Detection signals: - Customer says they were offered a work-from-home job. - Regular inflows followed by forwarding to the same set of accounts. - Messages mention commission on each transfer. - Young customer with a new account and sudden high volume. What the investigator should check: 1) Interview the account holder about how they got the job. 2) Identify the accounts they forwarded money to. 3) Check social media or messaging handles they were contacted through. Containment and next steps: - Restrict the account and explain the legal risk to the holder. - Report the recruiter's accounts and handles. Evidence to keep:"
+      },
+      {
+        "rank": 3,
+        "score": 0.7438,
+        "doc_type": "guideline",
+        "source_document": "guideline/rbi-mule-accounts.txt",
+        "chunk_number": 1,
+        "title": "RBI — Mule Accounts And Their Detection",
+        "text": "Issuer: RBI 1. What a mule account is: A mule account is a bank account used to receive and move the proceeds of fraud. The holder may be complicit, may have rented the account for a fee, or may be unaware that their KYC was misused. Mule networks let fraudsters break the money trail across many accounts and banks. 2. Detection: Banks are encouraged to use data analytics and machine learning models to spot mule accounts. Typical features include account age, the ratio of inward to outward flows, the number of unique remitters, time between credit and debit, device sharing across accounts and links to complaints on the national cybercrime portal. 3. Action: Suspected mule accounts should be frozen or debit-restricted following the bank's policy, the holder should be contacted for an explanation, and the case should be reported."
+      },
+      {
+        "rank": 4,
+        "score": 0.738,
+        "doc_type": "playbook",
+        "source_document": "playbook/pb-ato-new-device.txt",
+        "chunk_number": 1,
+        "title": "Playbook — Account Takeover From A New Device",
+        "text": "Playbook: Account takeover from a new device Overview: An attacker gains control of the customer's mobile or internet banking, registers a new device and quickly drains the account through high-value payments to new payees. Detection signals: - First login from a device never seen on the account. - UPI PIN reset or password reset minutes before the payment. - High-value payment to a beneficiary added the same day. - Login location far from the customer's usual city. - Transaction at an unusual hour for this customer. - Old device still active in the same period. What the investigator should check: 1) Compare the device fingerprint with the customer's device history. 2) Check the time gap between device registration, PIN reset and payment. 3) Check whether the registered mobile number or email changed recently. 4) Call the customer on the number held before any recent change."
+      },
+      {
+        "rank": 5,
+        "score": 0.7322,
+        "doc_type": "investigator_note",
+        "source_document": "investigator_note/note-080-mule-account.txt",
+        "chunk_number": 1,
+        "title": "Investigator Note SEN-2026-95799",
+        "text": "Case SEN-2026-95799 | Typology suspected: Mule account receiving fraud proceeds | Status: Escalated Summary: Alert raised by the real-time rules engine. Customer is based in Ahmedabad. Disputed amount Rs 106,615 via UPI at 11:05. Session originated from Guwahati on Android device (Redmi). Observations: Noted many inward credits from unrelated remitters in a short time. Noted outward transfers within minutes of each credit. Noted balance kept close to zero. Customer statement: Customer says: \"I only shared the code to get my refund.\" Checks performed: I checked the business correspondent or branch that opened the account. I checked whether the account holder's profile matches the volume. I mapped onward transfers to find the next layer. Outcome: Escalated to the senior investigator because linked accounts appear in other open cases."
+      }
+    ]
+  },
+  {
+    "query": "The victim was selling a sofa online and the buyer sent a QR code saying scan it to receive the money",
+    "filter": null,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.7549,
+        "doc_type": "playbook",
+        "source_document": "playbook/pb-qr-scam.txt",
+        "chunk_number": 1,
+        "title": "Playbook — Qr Code And 'Scan To Receive' Scam",
+        "text": "Playbook: QR code and 'scan to receive' scam Overview: The fraudster sends a QR code or payment link claiming the victim will receive money, for example for an item they are selling online. Scanning and entering the PIN sends money instead. Detection signals: - Victim was selling an item on an online marketplace. - Payment note says 'receive' or 'refund'. - Several small payments followed by a larger one to the same payee. - Payee VPA created recently. What the investigator should check: 1) Check the age of the payee VPA and the beneficiary account. 2) Check how many other payers sent money to the same VPA. 3) Check the transaction notes and the QR code source if available. Containment and next steps: - Report the payee VPA to the beneficiary bank for blocking. - Request a hold on the funds. - Explain to the customer that the PIN is only used to pay. Evidence to keep:"
+      },
+      {
+        "rank": 2,
+        "score": 0.727,
+        "doc_type": "investigator_note",
+        "source_document": "investigator_note/note-083-qr-scam.txt",
+        "chunk_number": 1,
+        "title": "Investigator Note SEN-2026-18130",
+        "text": "Case SEN-2026-18130 | Typology suspected: QR code and 'scan to receive' scam | Status: Confirmed fraud Summary: Case received from the national cybercrime reporting system. Customer is based in Kolkata. Disputed amount Rs 470,769 via UPI at 02:14. Session originated from Kochi on Android device (Realme). Observations: Noted victim was selling an item on an online marketplace. Noted payment note says 'receive' or 'refund'. Noted several small payments followed by a larger one to the same payee. Noted payee VPA created recently. Customer statement: Customer says: \"I only shared the code to get my refund.\" Checks performed: I checked the transaction notes and the QR code source if available. I checked how many other payers sent money to the same VPA. Outcome: Fraud confirmed. Partial funds frozen at the beneficiary bank; remaining amount had already moved to a second-layer account."
+      },
+      {
+        "rank": 3,
+        "score": 0.7051,
+        "doc_type": "playbook",
+        "source_document": "playbook/pb-qr-scam.txt",
+        "chunk_number": 2,
+        "title": "Playbook — Qr Code And 'Scan To Receive' Scam",
+        "text": "- Request a hold on the funds. - Explain to the customer that the PIN is only used to pay. Evidence to keep: Keep device and session logs, alert delivery records, the customer's first report with its timestamp, beneficiary bank responses and every call note. These decide the customer liability outcome and may be reviewed by the ombudsman."
+      },
+      {
+        "rank": 4,
+        "score": 0.6999,
+        "doc_type": "investigator_note",
+        "source_document": "investigator_note/note-005-qr-scam.txt",
+        "chunk_number": 1,
+        "title": "Investigator Note SEN-2026-27038",
+        "text": "Case SEN-2026-27038 | Typology suspected: QR code and 'scan to receive' scam | Status: False positive Summary: Branch staff raised a concern and referred the case. Customer is based in Lucknow. Disputed amount Rs 220,302 via internet banking at 02:14. Session originated from Mysuru on Android device (Vivo). Observations: Noted victim was selling an item on an online marketplace. Noted several small payments followed by a larger one to the same payee. Customer statement: Customer says: \"Someone called me saying my KYC was expiring.\" Checks performed: I checked the age of the payee VPA and the beneficiary account. I checked the transaction notes and the QR code source if available. Outcome: Customer confirmed the transaction as genuine. Alert closed as a false positive; rule threshold noted for tuning."
+      },
+      {
+        "rank": 5,
+        "score": 0.6792,
+        "doc_type": "guideline",
+        "source_document": "guideline/rbi-customer-awareness.txt",
+        "chunk_number": 1,
+        "title": "RBI — Customer Awareness On Digital Fraud",
+        "text": "Issuer: RBI 1. Messages: Customers should be told repeatedly that the bank will never ask for their PIN, OTP, password or CVV, never ask them to install screen-sharing apps, and never ask them to scan a QR code to receive money. 2. Digital arrest: A growing scam involves callers posing as police, customs or regulator officials who claim the victim is under investigation and must transfer money to a 'safe account'. No real agency arrests people over video calls or asks for money transfers. 3. Role of investigators: When a case involves social engineering, the investigator should record the script the fraudster used so that awareness messages can be updated."
+      }
+    ]
+  },
+  {
+    "query": "How many days does the bank have to credit the disputed amount back to the customer?",
+    "filter": null,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.7995,
+        "doc_type": "guideline",
+        "source_document": "guideline/rbi-customer-liability.txt",
+        "chunk_number": 3,
+        "title": "RBI — Customer Liability In Unauthorised Electronic Banking Transactions",
+        "text": "Any loss after the report is borne by the bank. Investigators should therefore record exactly when the customer first reported the issue and through which channel. 5. Bank obligations: The bank must credit the disputed amount to the customer's account as a shadow reversal within ten working days of the report, without waiting for an insurance claim. The complaint must be resolved and liability established within ninety days. The burden of proving customer liability lies on the bank, so case files must hold logs, device data and alert delivery records. 6. Reporting channels: Banks must give customers round-the-clock ways to report unauthorised transactions, including a website link, an SMS reply option, a toll-free number and a branch option. Each report must be acknowledged immediately with a complaint number and a timestamp, because the timestamp decides which liability band applies."
+      },
+      {
+        "rank": 2,
+        "score": 0.7542,
+        "doc_type": "guideline",
+        "source_document": "guideline/rbi-failed-transactions-tat.txt",
+        "chunk_number": 1,
+        "title": "RBI — Turnaround Time For Failed Transactions And Compensation",
+        "text": "Issuer: RBI 1. Principle: When a transaction fails because of a technical issue, communication failure or non-availability of funds at the beneficiary end, the customer's money must be returned within a defined turnaround time. If the provider misses that time, it must pay compensation to the customer without the customer having to ask. 2. UPI: For a UPI transaction where the customer's account is debited but the beneficiary account is not credited, the amount should be auto-reversed by the next working day. Delays beyond that attract compensation of one hundred rupees per day. 3. Cards and ATMs: For an ATM withdrawal where the account is debited but cash is not dispensed, the reversal should happen within five days. For card transactions at merchants, the acquirer should complete the reversal within the prescribed time. 4. Dispute handling:"
+      },
+      {
+        "rank": 3,
+        "score": 0.7383,
+        "doc_type": "guideline",
+        "source_document": "guideline/rbi-customer-liability.txt",
+        "chunk_number": 1,
+        "title": "RBI — Customer Liability In Unauthorised Electronic Banking Transactions",
+        "text": "Issuer: RBI 1. Purpose: This guidance sets out how much of a loss a customer bears when money leaves their account through an electronic transaction they did not authorise. It covers internet banking, mobile banking, UPI, card-present and card-not-present transactions, and prepaid instruments issued by banks. The aim is to give customers confidence in digital channels while making banks responsible for the security of the systems they run. 2. Zero liability: A customer has zero liability when the unauthorised transaction happened because of contributory fraud, negligence or a deficiency on the part of the bank, whether or not the customer reported it. A customer also has zero liability when the breach lies elsewhere in the system, neither with the bank nor with the customer, provided the customer tells the bank within three working days of receiving the transaction alert."
+      },
+      {
+        "rank": 4,
+        "score": 0.7351,
+        "doc_type": "guideline",
+        "source_document": "guideline/rbi-failed-transactions-tat.txt",
+        "chunk_number": 2,
+        "title": "RBI — Turnaround Time For Failed Transactions And Compensation",
+        "text": "For card transactions at merchants, the acquirer should complete the reversal within the prescribed time. 4. Dispute handling: Customers should be able to raise a failed-transaction complaint in the app. Investigators should distinguish genuine failed transactions from false claims by checking switch logs and the beneficiary bank's response code."
+      },
+      {
+        "rank": 5,
+        "score": 0.7335,
+        "doc_type": "chargeback",
+        "source_document": "chargeback/cb-064-debited-but-not-credited.txt",
+        "chunk_number": 1,
+        "title": "Chargeback Narrative 064",
+        "text": "Chargeback reference CB-321476 | Reason: debited but not credited | Merchant: StreamBay (OTT subscription) Customer claim: The customer's UPI payment failed at the merchant but the account was debited. Amount Rs 43,956 paid via credit card. Merchant response: The merchant did not submit sufficient evidence within the re-presentment window. Investigation: The dispute analyst found that switch logs show the beneficiary bank timed out and no credit was posted. Decision: Chargeback accepted in the customer's favour; amount credited back."
+      }
+    ]
+  },
+  {
+    "query": "The customer's phone suddenly lost signal in the evening and then money was transferred out",
+    "filter": null,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.7144,
+        "doc_type": "investigator_note",
+        "source_document": "investigator_note/note-069-digital-arrest.txt",
+        "chunk_number": 1,
+        "title": "Investigator Note SEN-2026-68079",
+        "text": "Case SEN-2026-68079 | Typology suspected: Digital arrest impersonation scam | Status: Customer error Summary: Alert raised by the real-time rules engine. Customer is based in Lucknow. Disputed amount Rs 345,063 via mobile banking at 23:52. Session originated from Ahmedabad on Android device (Samsung). Observations: Noted transfers to accounts with no prior relationship. Noted customer mentions police, customs, a parcel with drugs or a court order. Noted customer was on a long video call during the transfers. Noted large transfers, often from fixed deposits broken the same day. Customer statement: Customer says: \"I was told to keep the video call on.\" Checks performed: I confirmed whether a fixed deposit was closed or a loan taken before the transfer. I checked whether branch staff noticed distress. I traced beneficiary accounts quickly because funds move fast. Outcome:"
+      },
+      {
+        "rank": 2,
+        "score": 0.71,
+        "doc_type": "playbook",
+        "source_document": "playbook/pb-sim-swap.txt",
+        "chunk_number": 1,
+        "title": "Playbook — Sim Swap Fraud",
+        "text": "Playbook: SIM swap fraud Overview: The attacker gets a duplicate SIM for the victim's number, receives OTPs and re-registers banking apps on their own phone. Detection signals: - Customer's phone suddenly loses network. - Telecom operator reports a recent SIM change. - UPI re-registration on a new device right after the SIM change. - OTPs delivered while the customer says their phone had no signal. - Several transactions in quick succession after re-registration. What the investigator should check: 1) Query the telecom SIM-change date through the available API. 2) Match the time of SIM change with the device registration. 3) Check whether the customer's email was also changed. 4) Check the KYC documents used for the duplicate SIM if police request them. Containment and next steps: - Block all digital channels until the customer is re-verified."
+      },
+      {
+        "rank": 3,
+        "score": 0.6992,
+        "doc_type": "investigator_note",
+        "source_document": "investigator_note/note-034-sim-swap.txt",
+        "chunk_number": 1,
+        "title": "Investigator Note SEN-2026-42077",
+        "text": "Case SEN-2026-42077 | Typology suspected: SIM swap fraud | Status: Customer error Summary: Branch staff raised a concern and referred the case. Customer is based in Patna. Disputed amount Rs 294,593 via mobile banking at 19:21. Session originated from Mumbai on Android device (Oppo). Observations: Noted telecom operator reports a recent SIM change. Noted several transactions in quick succession after re-registration. Noted customer's phone suddenly loses network. Customer statement: Customer says: \"Someone called me saying my KYC was expiring.\" Checks performed: I checked whether the customer's email was also changed. I queried the telecom SIM-change date through the available API. Outcome: Customer made the payment by mistake to a wrong but genuine payee. Reclassified as a wrong-credit request, not fraud."
+      },
+      {
+        "rank": 4,
+        "score": 0.6985,
+        "doc_type": "investigator_note",
+        "source_document": "investigator_note/note-030-fake-customer-care.txt",
+        "chunk_number": 1,
+        "title": "Investigator Note SEN-2026-35318",
+        "text": "Case SEN-2026-35318 | Typology suspected: Fake customer care number | Status: Confirmed fraud Summary: Case received from the national cybercrime reporting system. Customer is based in Patna. Disputed amount Rs 440,060 via IMPS at 02:14. Session originated from Pune on iPhone. Observations: Noted refund or complaint was the reason for the call. Noted call with 'support' followed by a payment or app install. Noted customer says they found the number through an internet search. Customer statement: Customer says: \"My phone had no signal all evening.\" Checks performed: I recorded the number called and where it was found. I checked for other cases with the same number. Outcome: Fraud confirmed. Partial funds frozen at the beneficiary bank; remaining amount had already moved to a second-layer account."
+      },
+      {
+        "rank": 5,
+        "score": 0.6947,
+        "doc_type": "investigator_note",
+        "source_document": "investigator_note/note-072-digital-arrest.txt",
+        "chunk_number": 1,
+        "title": "Investigator Note SEN-2026-44003",
+        "text": "Case SEN-2026-44003 | Typology suspected: Digital arrest impersonation scam | Status: False positive Summary: Case received from the national cybercrime reporting system. Customer is based in Patna. Disputed amount Rs 467,458 via UPI at 23:52. Session originated from Bhubaneswar on Android device (Vivo). Observations: Noted customer was on a long video call during the transfers. Noted customer mentions police, customs, a parcel with drugs or a court order. Noted transfers to accounts with no prior relationship. Customer statement: Customer says: \"My phone had no signal all evening.\" Checks performed: I traced beneficiary accounts quickly because funds move fast. I confirmed whether a fixed deposit was closed or a loan taken before the transfer. I checked whether branch staff noticed distress. Outcome: Customer confirmed the transaction as genuine."
+      }
+    ]
+  },
+  {
+    "query": "Merchant ticket sizes do not match its business category and customers don't recognise the merchant name",
+    "filter": null,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.7469,
+        "doc_type": "investigator_note",
+        "source_document": "investigator_note/note-057-transaction-laundering.txt",
+        "chunk_number": 1,
+        "title": "Investigator Note SEN-2026-13133",
+        "text": "Case SEN-2026-13133 | Typology suspected: Merchant collusion and transaction laundering | Status: Confirmed fraud Summary: Flagged by the network-level risk score. Customer is based in Mysuru. Disputed amount Rs 220,519 via card-not-present at 02:14. Session originated from Jaipur on Android device (Vivo). Observations: Noted ticket sizes that do not match the declared business. Noted customers who do not recognise the merchant name. Noted payments coming mostly at night. Checks performed: I compared the merchant category code with actual product sold. I sampled customer complaints for the business name they expected. I visited or verify the merchant's premises and website. Outcome: Fraud confirmed. Partial funds frozen at the beneficiary bank; remaining amount had already moved to a second-layer account."
+      },
+      {
+        "rank": 2,
+        "score": 0.7356,
+        "doc_type": "playbook",
+        "source_document": "playbook/pb-transaction-laundering.txt",
+        "chunk_number": 1,
+        "title": "Playbook — Merchant Collusion And Transaction Laundering",
+        "text": "Playbook: Merchant collusion and transaction laundering Overview: A merchant processes payments for an undisclosed business, such as gambling or fraud proceeds, through its own merchant account. Detection signals: - Ticket sizes that do not match the declared business. - Sudden growth in volume at a newly onboarded merchant. - Customers who do not recognise the merchant name. - High chargeback or refund ratio. - Payments coming mostly at night. What the investigator should check: 1) Visit or verify the merchant's premises and website. 2) Sample customer complaints for the business name they expected. 3) Compare the merchant category code with actual product sold. Containment and next steps: - Suspend settlement pending review. - Report to the acquirer and payment aggregator risk team. Evidence to keep:"
+      },
+      {
+        "rank": 3,
+        "score": 0.7195,
+        "doc_type": "chargeback",
+        "source_document": "chargeback/cb-008-unauthorised-transaction.txt",
+        "chunk_number": 1,
+        "title": "Chargeback Narrative 008",
+        "text": "Chargeback reference CB-970071 | Reason: unauthorised transaction | Merchant: TiffinGo (food delivery) Customer claim: The customer says they did not make or authorise the payment. Amount Rs 63,227 paid via wallet. Merchant response: The merchant did not submit sufficient evidence within the re-presentment window. Investigation: The dispute analyst found that the payment came from a newly registered device in another state. Decision: Chargeback accepted in the customer's favour; amount credited back."
+      },
+      {
+        "rank": 4,
+        "score": 0.7171,
+        "doc_type": "chargeback",
+        "source_document": "chargeback/cb-079-unauthorised-transaction.txt",
+        "chunk_number": 1,
+        "title": "Chargeback Narrative 079",
+        "text": "Chargeback reference CB-745533 | Reason: unauthorised transaction | Merchant: TiffinGo (food delivery) Customer claim: The customer says they did not make or authorise the payment. Amount Rs 57,214 paid via credit card. Merchant response: The merchant re-presented the transaction and submitted device and IP logs showing the payment came from the customer's registered device. Investigation: The dispute analyst reviewed the merchant's evidence against the customer's claim and the customer's previous disputes. Decision: Chargeback declined; the merchant's evidence was found valid. Customer informed of the ombudsman route."
+      },
+      {
+        "rank": 5,
+        "score": 0.7159,
+        "doc_type": "investigator_note",
+        "source_document": "investigator_note/note-053-friendly-fraud.txt",
+        "chunk_number": 1,
+        "title": "Investigator Note SEN-2026-48737",
+        "text": "Case SEN-2026-48737 | Typology suspected: First-party misuse and friendly fraud | Status: False positive Summary: Customer called the helpline to report the transaction. Customer is based in Jaipur. Disputed amount Rs 292,360 via card-not-present at 09:55. Session originated from Mumbai on Android device (Realme). Observations: Noted dispute raised after the return window closed. Noted purchase made from the customer's usual device and location. Noted customer has disputed several purchases with different merchants. Customer statement: Customer says: \"Someone called me saying my KYC was expiring.\" Checks performed: I reviewed the customer's past dispute history. I compared the device and IP with the customer's history. I obtained delivery proof and any customer communication from the merchant. Outcome: Customer confirmed the transaction as genuine."
+      }
+    ]
+  },
+  {
+    "query": "Elderly customer kept on a video call by people claiming to be police broke an FD and transferred money",
+    "filter": null,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.7701,
+        "doc_type": "playbook",
+        "source_document": "playbook/pb-digital-arrest-copy.txt",
+        "chunk_number": 1,
+        "title": "Playbook — Digital Arrest Impersonation Scam",
+        "text": "Playbook: Digital arrest impersonation scam Overview: Callers posing as police, customs or a regulator tell the victim they are implicated in a crime and keep them on a video call until they transfer money to a 'verification' account. Detection signals: - Customer was on a long video call during the transfers. - Large transfers, often from fixed deposits broken the same day. - Customer mentions police, customs, a parcel with drugs or a court order. - Transfers to accounts with no prior relationship. What the investigator should check: 1) Confirm whether a fixed deposit was closed or a loan taken before the transfer. 2) Check whether branch staff noticed distress. 3) Trace beneficiary accounts quickly because funds move fast. Containment and next steps: - Raise immediate hold requests. - Help the customer file a report on the 1930 helpline."
+      },
+      {
+        "rank": 2,
+        "score": 0.7595,
+        "doc_type": "investigator_note",
+        "source_document": "investigator_note/note-069-digital-arrest.txt",
+        "chunk_number": 1,
+        "title": "Investigator Note SEN-2026-68079",
+        "text": "Case SEN-2026-68079 | Typology suspected: Digital arrest impersonation scam | Status: Customer error Summary: Alert raised by the real-time rules engine. Customer is based in Lucknow. Disputed amount Rs 345,063 via mobile banking at 23:52. Session originated from Ahmedabad on Android device (Samsung). Observations: Noted transfers to accounts with no prior relationship. Noted customer mentions police, customs, a parcel with drugs or a court order. Noted customer was on a long video call during the transfers. Noted large transfers, often from fixed deposits broken the same day. Customer statement: Customer says: \"I was told to keep the video call on.\" Checks performed: I confirmed whether a fixed deposit was closed or a loan taken before the transfer. I checked whether branch staff noticed distress. I traced beneficiary accounts quickly because funds move fast. Outcome:"
+      },
+      {
+        "rank": 3,
+        "score": 0.7576,
+        "doc_type": "playbook",
+        "source_document": "playbook/pb-digital-arrest-copy.txt",
+        "chunk_number": 2,
+        "title": "Playbook — Digital Arrest Impersonation Scam",
+        "text": "Containment and next steps: - Raise immediate hold requests. - Help the customer file a report on the 1930 helpline. - Flag elderly customers for branch-level checks on large FD closures. Evidence to keep: Keep device and session logs, alert delivery records, the customer's first report with its timestamp, beneficiary bank responses and every call note. These decide the customer liability outcome and may be reviewed by the ombudsman."
+      },
+      {
+        "rank": 4,
+        "score": 0.7529,
+        "doc_type": "investigator_note",
+        "source_document": "investigator_note/note-010-digital-arrest.txt",
+        "chunk_number": 1,
+        "title": "Investigator Note SEN-2026-25096",
+        "text": "Case SEN-2026-25096 | Typology suspected: Digital arrest impersonation scam | Status: Confirmed fraud Summary: Branch staff raised a concern and referred the case. Customer is based in Bengaluru. Disputed amount Rs 401,728 via card-not-present at 22:18. Session originated from Patna on Android device (Samsung). Observations: Noted large transfers, often from fixed deposits broken the same day. Noted customer mentions police, customs, a parcel with drugs or a court order. Noted transfers to accounts with no prior relationship. Customer statement: Customer says: \"I only shared the code to get my refund.\" Checks performed: I confirmed whether a fixed deposit was closed or a loan taken before the transfer. I checked whether branch staff noticed distress. I traced beneficiary accounts quickly because funds move fast. Outcome: Fraud confirmed."
+      },
+      {
+        "rank": 5,
+        "score": 0.748,
+        "doc_type": "investigator_note",
+        "source_document": "investigator_note/note-008-digital-arrest.txt",
+        "chunk_number": 1,
+        "title": "Investigator Note SEN-2026-54541",
+        "text": "Case SEN-2026-54541 | Typology suspected: Digital arrest impersonation scam | Status: Confirmed fraud Summary: Flagged by the network-level risk score. Customer is based in Bengaluru. Disputed amount Rs 199,379 via card-not-present at 06:40. Session originated from Indore on Android emulator. Observations: Noted large transfers, often from fixed deposits broken the same day. Noted customer mentions police, customs, a parcel with drugs or a court order. Customer statement: Customer says: \"I only shared the code to get my refund.\" Checks performed: I confirmed whether a fixed deposit was closed or a loan taken before the transfer. I traced beneficiary accounts quickly because funds move fast. I checked whether branch staff noticed distress. Outcome: Case confirmed as fraud. Customer liability assessed under the bank's policy; recovery requested from the beneficiary bank."
+      }
+    ]
+  },
+  {
+    "query": "My UPI payment failed but the money was debited from my account. When will I get it back?",
+    "filter": null,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.7954,
+        "doc_type": "guideline",
+        "source_document": "guideline/rbi-failed-transactions-tat.txt",
+        "chunk_number": 1,
+        "title": "RBI — Turnaround Time For Failed Transactions And Compensation",
+        "text": "Issuer: RBI 1. Principle: When a transaction fails because of a technical issue, communication failure or non-availability of funds at the beneficiary end, the customer's money must be returned within a defined turnaround time. If the provider misses that time, it must pay compensation to the customer without the customer having to ask. 2. UPI: For a UPI transaction where the customer's account is debited but the beneficiary account is not credited, the amount should be auto-reversed by the next working day. Delays beyond that attract compensation of one hundred rupees per day. 3. Cards and ATMs: For an ATM withdrawal where the account is debited but cash is not dispensed, the reversal should happen within five days. For card transactions at merchants, the acquirer should complete the reversal within the prescribed time. 4. Dispute handling:"
+      },
+      {
+        "rank": 2,
+        "score": 0.7365,
+        "doc_type": "chargeback",
+        "source_document": "chargeback/cb-080-debited-but-not-credited.txt",
+        "chunk_number": 1,
+        "title": "Chargeback Narrative 080",
+        "text": "Chargeback reference CB-273021 | Reason: debited but not credited | Merchant: YatraLane (travel booking) Customer claim: The customer's UPI payment failed at the merchant but the account was debited. Amount Rs 80,055 paid via UPI. Merchant response: The merchant did not submit sufficient evidence within the re-presentment window. Investigation: The dispute analyst found that switch logs show the beneficiary bank timed out and no credit was posted. Decision: Chargeback accepted in the customer's favour; amount credited back."
+      },
+      {
+        "rank": 3,
+        "score": 0.7246,
+        "doc_type": "chargeback",
+        "source_document": "chargeback/cb-064-debited-but-not-credited.txt",
+        "chunk_number": 1,
+        "title": "Chargeback Narrative 064",
+        "text": "Chargeback reference CB-321476 | Reason: debited but not credited | Merchant: StreamBay (OTT subscription) Customer claim: The customer's UPI payment failed at the merchant but the account was debited. Amount Rs 43,956 paid via credit card. Merchant response: The merchant did not submit sufficient evidence within the re-presentment window. Investigation: The dispute analyst found that switch logs show the beneficiary bank timed out and no credit was posted. Decision: Chargeback accepted in the customer's favour; amount credited back."
+      },
+      {
+        "rank": 4,
+        "score": 0.7238,
+        "doc_type": "chargeback",
+        "source_document": "chargeback/cb-005-debited-but-not-credited.txt",
+        "chunk_number": 1,
+        "title": "Chargeback Narrative 005",
+        "text": "Chargeback reference CB-488196 | Reason: debited but not credited | Merchant: HP Pump 2291 (fuel station) Customer claim: The customer's UPI payment failed at the merchant but the account was debited. Amount Rs 64,144 paid via wallet. Merchant response: The merchant did not submit sufficient evidence within the re-presentment window. Investigation: The dispute analyst found that switch logs show the beneficiary bank timed out and no credit was posted. Decision: Chargeback accepted in the customer's favour; amount credited back."
+      },
+      {
+        "rank": 5,
+        "score": 0.7223,
+        "doc_type": "chargeback",
+        "source_document": "chargeback/cb-003-debited-but-not-credited.txt",
+        "chunk_number": 1,
+        "title": "Chargeback Narrative 003",
+        "text": "Chargeback reference CB-145548 | Reason: debited but not credited | Merchant: HP Pump 2291 (fuel station) Customer claim: The customer's UPI payment failed at the merchant but the account was debited. Amount Rs 48,443 paid via wallet. Merchant response: The merchant did not submit sufficient evidence within the re-presentment window. Investigation: The dispute analyst found that switch logs show the beneficiary bank timed out and no credit was posted. Decision: Chargeback accepted in the customer's favour; amount credited back."
+      }
+    ]
+  },
+  {
+    "query": "What evidence does a merchant need to win a goods-not-received dispute?",
+    "filter": null,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.736,
+        "doc_type": "chargeback",
+        "source_document": "chargeback/cb-067-goods-not-received.txt",
+        "chunk_number": 1,
+        "title": "Chargeback Narrative 067",
+        "text": "Chargeback reference CB-591644 | Reason: goods not received | Merchant: KurtaCo (fashion retail) Customer claim: The customer says the order was never delivered. Amount Rs 61,554 paid via UPI. Merchant response: The merchant re-presented the transaction and submitted delivery proof with a signature or OTP-confirmed delivery. Investigation: The dispute analyst reviewed the merchant's evidence against the customer's claim and the customer's previous disputes. Decision: Chargeback declined; the merchant's evidence was found valid. Customer informed of the ombudsman route."
+      },
+      {
+        "rank": 2,
+        "score": 0.7309,
+        "doc_type": "chargeback",
+        "source_document": "chargeback/cb-083-goods-not-received.txt",
+        "chunk_number": 1,
+        "title": "Chargeback Narrative 083",
+        "text": "Chargeback reference CB-130477 | Reason: goods not received | Merchant: HP Pump 2291 (fuel station) Customer claim: The customer says the order was never delivered. Amount Rs 20,366 paid via UPI. Merchant response: The merchant did not submit sufficient evidence within the re-presentment window. Investigation: The dispute analyst found that the courier tracking shows the parcel returned to origin. Decision: Chargeback accepted in the customer's favour; amount credited back."
+      },
+      {
+        "rank": 3,
+        "score": 0.7304,
+        "doc_type": "chargeback",
+        "source_document": "chargeback/cb-039-goods-not-received.txt",
+        "chunk_number": 1,
+        "title": "Chargeback Narrative 039",
+        "text": "Chargeback reference CB-419739 | Reason: goods not received | Merchant: ShopNova (electronics e-commerce) Customer claim: The customer says the order was never delivered. Amount Rs 28,570 paid via debit card. Merchant response: The merchant re-presented the transaction and submitted delivery proof with a signature or OTP-confirmed delivery. Investigation: The dispute analyst reviewed the merchant's evidence against the customer's claim and the customer's previous disputes. Decision: Chargeback declined; the merchant's evidence was found valid. Customer informed of the ombudsman route."
+      },
+      {
+        "rank": 4,
+        "score": 0.7277,
+        "doc_type": "chargeback",
+        "source_document": "chargeback/cb-006-goods-not-received.txt",
+        "chunk_number": 1,
+        "title": "Chargeback Narrative 006",
+        "text": "Chargeback reference CB-105547 | Reason: goods not received | Merchant: YatraLane (travel booking) Customer claim: The customer says the order was never delivered. Amount Rs 44,824 paid via UPI. Merchant response: The merchant re-presented the transaction and submitted delivery proof with a signature or OTP-confirmed delivery. Investigation: The dispute analyst reviewed the merchant's evidence against the customer's claim and the customer's previous disputes. Decision: Chargeback declined; the merchant's evidence was found valid. Customer informed of the ombudsman route."
+      },
+      {
+        "rank": 5,
+        "score": 0.7261,
+        "doc_type": "chargeback",
+        "source_document": "chargeback/cb-023-goods-not-received.txt",
+        "chunk_number": 1,
+        "title": "Chargeback Narrative 023",
+        "text": "Chargeback reference CB-908688 | Reason: goods not received | Merchant: TiffinGo (food delivery) Customer claim: The customer says the order was never delivered. Amount Rs 82,162 paid via UPI. Merchant response: The merchant did not submit sufficient evidence within the re-presentment window. Investigation: The dispute analyst found that the courier tracking shows the parcel returned to origin. Decision: Chargeback accepted in the customer's favour; amount credited back."
+      }
+    ]
+  },
+  {
+    "query": "Customer shared an OTP with a caller pretending to be from the bank",
+    "filter": {
+      "doc_type": "investigator_note"
+    },
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.7695,
+        "doc_type": "investigator_note",
+        "source_document": "investigator_note/note-064-otp-vishing.txt",
+        "chunk_number": 1,
+        "title": "Investigator Note SEN-2026-41194",
+        "text": "Case SEN-2026-41194 | Typology suspected: OTP phishing and vishing | Status: Confirmed fraud Summary: Alert raised by the real-time rules engine. Customer is based in Ahmedabad. Disputed amount Rs 230,949 via internet banking at 14:30. Session originated from Indore on Android device (Samsung). Observations: Noted customer reports a call from someone claiming to be bank staff. Noted card-not-present transaction at a merchant the customer never used. Checks performed: I looked for other customers reporting the same caller number. I listened to or read the customer's account of the call and note the script. I checked whether the OTP was entered from the customer's device or elsewhere. Outcome: Fraud confirmed. Partial funds frozen at the beneficiary bank; remaining amount had already moved to a second-layer account."
+      },
+      {
+        "rank": 2,
+        "score": 0.7671,
+        "doc_type": "investigator_note",
+        "source_document": "investigator_note/note-029-otp-vishing.txt",
+        "chunk_number": 1,
+        "title": "Investigator Note SEN-2026-95498",
+        "text": "Case SEN-2026-95498 | Typology suspected: OTP phishing and vishing | Status: Confirmed fraud Summary: Alert raised by the real-time rules engine. Customer is based in Jaipur. Disputed amount Rs 267,587 via UPI at 14:30. Session originated from Jamtara on Android device (Samsung). Observations: Noted customer reports a call from someone claiming to be bank staff. Noted customer mentions KYC update, card block or reward points. Noted OTP requested and used within seconds. Noted card-not-present transaction at a merchant the customer never used. Checks performed: I looked for other customers reporting the same caller number. I checked whether the OTP was entered from the customer's device or elsewhere. Outcome: Fraud confirmed. Partial funds frozen at the beneficiary bank; remaining amount had already moved to a second-layer account."
+      },
+      {
+        "rank": 3,
+        "score": 0.752,
+        "doc_type": "investigator_note",
+        "source_document": "investigator_note/note-050-otp-vishing.txt",
+        "chunk_number": 1,
+        "title": "Investigator Note SEN-2026-70089",
+        "text": "Case SEN-2026-70089 | Typology suspected: OTP phishing and vishing | Status: False positive Summary: Branch staff raised a concern and referred the case. Customer is based in Delhi. Disputed amount Rs 121,819 via UPI at 06:40. Session originated from Indore on Android emulator. Observations: Noted customer mentions KYC update, card block or reward points. Noted customer reports a call from someone claiming to be bank staff. Noted OTP requested and used within seconds. Noted card-not-present transaction at a merchant the customer never used. Checks performed: I checked the merchant and acquirer of the transaction. I checked whether the OTP was entered from the customer's device or elsewhere. I looked for other customers reporting the same caller number. Outcome: Customer confirmed the transaction as genuine. Alert closed as a false positive; rule threshold noted for tuning."
+      },
+      {
+        "rank": 4,
+        "score": 0.7501,
+        "doc_type": "investigator_note",
+        "source_document": "investigator_note/note-046-otp-vishing.txt",
+        "chunk_number": 1,
+        "title": "Investigator Note SEN-2026-85674",
+        "text": "Case SEN-2026-85674 | Typology suspected: OTP phishing and vishing | Status: False positive Summary: Branch staff raised a concern and referred the case. Customer is based in Mysuru. Disputed amount Rs 451,099 via UPI at 19:21. Session originated from Hyderabad on Android device (Realme). Observations: Noted card-not-present transaction at a merchant the customer never used. Noted OTP requested and used within seconds. Checks performed: I looked for other customers reporting the same caller number. I listened to or read the customer's account of the call and note the script. Outcome: Customer confirmed the transaction as genuine. Alert closed as a false positive; rule threshold noted for tuning."
+      },
+      {
+        "rank": 5,
+        "score": 0.7416,
+        "doc_type": "investigator_note",
+        "source_document": "investigator_note/note-051-otp-vishing.txt",
+        "chunk_number": 1,
+        "title": "Investigator Note SEN-2026-95798",
+        "text": "Case SEN-2026-95798 | Typology suspected: OTP phishing and vishing | Status: False positive Summary: Flagged by the network-level risk score. Customer is based in Lucknow. Disputed amount Rs 216,823 via UPI at 03:47. Session originated from Indore on Android device (Samsung). Observations: Noted card-not-present transaction at a merchant the customer never used. Noted customer mentions KYC update, card block or reward points. Customer statement: Customer says: \"My phone had no signal all evening.\" Checks performed: I listened to or read the customer's account of the call and note the script. I checked whether the OTP was entered from the customer's device or elsewhere. Outcome: Customer confirmed the transaction as genuine. Alert closed as a false positive; rule threshold noted for tuning."
+      }
+    ]
+  }
+]

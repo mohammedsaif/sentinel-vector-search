@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+CHARGEBACK NARRATIVE 012
+
+Chargeback reference CB-234475 | Reason: service not as described | Merchant: StreamBay (OTT subscription)
+
+Customer claim
+The customer says the service was not delivered as promised. Amount Rs 25,665 paid via UPI.
+
+Merchant response
+The merchant re-presented the transaction and submitted service logs and the accepted terms.   
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Investigation
+The dispute analyst reviewed the merchant's evidence against the customer's claim and the customer's previous disputes.   
+
+Decision
+Chargeback declined; the merchant's evidence was found valid. Customer informed of the ombudsman route.   
+
+Page 2 of 2

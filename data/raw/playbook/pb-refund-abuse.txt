@@ -1,0 +1,29 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+PLAYBOOK — REFUND ABUSE
+
+Playbook: Refund abuse
+
+Overview
+Customers or insiders exploit refund flows, for example by claiming refunds for items returned empty or by issuing refunds to accounts they control.
+
+Detection signals
+- Refunds issued to a different card or account than the original payment.
+- The same staff member approving many refunds.
+- Refunds without a matching original transaction.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+What the investigator should check
+1) Match each refund to the original transaction.
+2) Review the approver of each refund.
+
+Containment and next steps
+- Block refund rights for the involved staff pending review.
+- Recover funds where possible.   
+
+Evidence to keep
+Keep device and session logs, alert delivery records, the customer’s first report with its timestamp, beneficiary bank responses and every call note. These decide the customer liability outcome and may be reviewed by the ombudsman.
+
+Page 2 of 2

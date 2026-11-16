@@ -1,0 +1,29 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+PLAYBOOK — TRIANGULATION FRAUD ON ONLINE MARKETPLACES
+
+Playbook: Triangulation fraud on online marketplaces
+
+Overview
+A fraudster lists goods at low prices, takes orders from real buyers and fulfils them by buying from a real merchant with stolen cards.
+
+Detection signals
+- Shipping address differs from the cardholder’s billing address.
+- Orders for high-demand electronics.
+- Cardholder disputes a purchase that was delivered to a stranger.   
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+What the investigator should check
+1) Compare billing and shipping details.
+2) Identify the marketplace seller who triggered the order.
+
+Containment and next steps
+- Refund the cardholder through chargeback.
+- Share the seller details with the marketplace.   
+
+Evidence to keep
+Keep device and session logs, alert delivery records, the customer’s first report with its timestamp, beneficiary bank responses and every call note. These decide the customer liability outcome and may be reviewed by the ombudsman.
+
+Page 2 of 2

@@ -1,0 +1,25 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-79767
+
+Case SEN-2026-79767 | Typology suspected: Card skimming and cloning | Status: Confirmed fraud
+
+Summary
+Alert raised by the real-time rules engine. Customer is based in Mysuru. Disputed amount Rs 379,636 via internet banking at 23:52. Session originated from Lucknow on Android device (Vivo).   
+
+Observations
+Noted several cards with a common point of purchase in the days before. Noted customer still holds the physical card.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Customer statement
+Customer says: “I only shared the code to get my refund.”
+
+Checks performed
+I confirmed the customer’s location at the time. I checked the entry mode of each transaction. I ran a common point of purchase analysis across affected cards.
+
+Outcome
+Fraud confirmed. Partial funds frozen at the beneficiary bank; remaining amount had already moved to a second-layer account.   
+
+Page 2 of 2

@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+CHARGEBACK NARRATIVE 072
+
+Chargeback reference CB-364132 | Reason: cancelled subscription | Merchant: KurtaCo (fashion retail)   
+
+Customer claim
+The customer cancelled a subscription but was charged again. Amount Rs 25,357 paid via credit card.   
+
+Merchant response
+The merchant re-presented the transaction and submitted the active mandate record and usage after the claimed cancellation.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Investigation
+The dispute analyst reviewed the merchant’s evidence against the customer’s claim and the customer’s previous disputes.
+
+Decision
+Chargeback declined; the merchant's evidence was found valid. Customer informed of the ombudsman route.
+
+Page 2 of 2

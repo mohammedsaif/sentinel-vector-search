@@ -1,0 +1,29 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+PLAYBOOK — INSIDER-ASSISTED FRAUD
+
+Playbook: Insider-assisted fraud
+
+Overview
+A staff member or outsourced agent misuses access to change customer contact details, open accounts or leak data.
+
+Detection signals
+- Mobile number changed by a staff user without a customer request.
+- Accounts opened in bulk by the same employee.
+- Staff account viewing customer records outside working hours.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+What the investigator should check
+1) Review the audit trail of the staff user.
+2) Compare change requests with customer service tickets.   
+
+Containment and next steps
+- Suspend the staff user's access.
+- Escalate to vigilance and human resources.   
+
+Evidence to keep
+Keep device and session logs, alert delivery records, the customer's first report with its timestamp, beneficiary bank responses and every call note.  These decide the customer liability outcome and may be reviewed by the ombudsman.
+
+Page 2 of 2

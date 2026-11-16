@@ -1,0 +1,21 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+RBI — CYBER SECURITY INCIDENT REPORTING
+
+Issuer: RBI
+
+Note: synthetic summary prepared for the SENTINEL coursework corpus. It paraphrases public guidance and is not an official RBI or NPCI text.
+
+1. Timelines
+Regulated entities must report significant cyber security incidents to the regulator quickly, and the national computer emergency response team expects reports within six hours of noticing certain incidents. Examples include data breaches, compromise of payment systems, ransomware and large-scale phishing aimed at customers.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+2.  Customer-facing phishing
+When fraudsters clone the entity’s website or app, or run fake customer-care numbers, the entity should report the domains, request takedown and warn customers through its channels.
+
+3.  Link to fraud operations
+A spike in account-takeover cases with the same pattern may be the visible side of a cyber incident.  Fraud and security teams should share indicators such as IP ranges, device fingerprints and phishing domains.   
+
+Page 2 of 2

@@ -1,0 +1,25 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-32391
+
+Case SEN-2026-32391 | Typology suspected: Mule account receiving fraud proceeds | Status: Confirmed fraud   
+
+Summary
+Customer called the helpline to report the transaction.  Customer is based in Delhi.  Disputed amount Rs 357,551 via internet banking at 01:09. Session originated from Kochi on Android emulator.
+
+Observations
+Noted many inward credits from unrelated remitters in a short time.  Noted account recently opened or long dormant and suddenly active.  Noted balance kept close to zero.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Customer statement
+Customer says: “I did not do this payment.”
+
+Checks performed
+I checked the business correspondent or branch that opened the account. I checked whether the account holder's profile matches the volume. I mapped onward transfers to find the next layer.
+
+Outcome
+Case confirmed as fraud. Customer liability assessed under the bank’s policy; recovery requested from the beneficiary bank.
+
+Page 2 of 2

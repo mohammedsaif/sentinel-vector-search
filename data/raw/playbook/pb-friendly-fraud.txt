@@ -1,0 +1,31 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+PLAYBOOK — FIRST-PARTY MISUSE AND FRIENDLY FRAUD
+
+Playbook: First-party misuse and friendly fraud   
+
+Overview
+The genuine customer makes a purchase and then disputes it as unauthorised or not received to get their money back.
+
+Detection signals
+- Purchase made from the customer's usual device and location.
+- Delivery confirmed at the customer's address.
+- Customer has disputed several purchases with different merchants.
+- Dispute raised after the return window closed.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+What the investigator should check
+1) Compare the device and IP with the customer’s history.
+2) Obtain delivery proof and any customer communication from the merchant.
+3) Review the customer’s past dispute history.
+
+Containment and next steps
+- Reject the dispute with evidence where justified.
+- Add a first-party risk flag to the customer profile.   
+
+Evidence to keep
+Keep device and session logs, alert delivery records, the customer's first report with its timestamp, beneficiary bank responses and every call note. These decide the customer liability outcome and may be reviewed by the ombudsman.
+
+Page 2 of 2

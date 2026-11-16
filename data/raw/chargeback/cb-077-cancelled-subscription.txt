@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+CHARGEBACK NARRATIVE 077
+
+Chargeback reference CB-302472 | Reason: cancelled subscription | Merchant: RechargePe (mobile recharge)
+
+Customer claim
+The customer cancelled a subscription but was charged again. Amount Rs 21,927 paid via UPI.
+
+Merchant response
+The merchant did not submit sufficient evidence within the re-presentment window.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Investigation
+The dispute analyst found that the cancellation request was logged before the debit date.   
+
+Decision
+Chargeback accepted in the customer's favour; amount credited back.   
+
+Page 2 of 2

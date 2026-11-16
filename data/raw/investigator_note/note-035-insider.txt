@@ -1,0 +1,25 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-72065
+
+Case SEN-2026-72065 | Typology suspected: Insider-assisted fraud | Status: Customer error   
+
+Summary
+Flagged by the network-level risk score.  Customer is based in Nuh.  Disputed amount Rs 125,025 via IMPS at 14:30. Session originated from Jaipur on Android device (Oppo).   
+
+Observations
+Noted staff account viewing customer records outside working hours. Noted mobile number changed by a staff user without a customer request. Noted accounts opened in bulk by the same employee.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Customer statement
+Customer says: “I did not do this payment.”
+
+Checks performed
+I compared change requests with customer service tickets. I reviewed the audit trail of the staff user.
+
+Outcome
+Customer made the payment by mistake to a wrong but genuine payee. Reclassified as a wrong-credit request, not fraud.   
+
+Page 2 of 2

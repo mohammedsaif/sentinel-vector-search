@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-14799
+
+Case SEN-2026-14799 | Typology suspected: Investment and task scam | Status: Escalated   
+
+Summary
+Flagged by the network-level risk score. Customer is based in Kochi. Disputed amount Rs 405,459 via internet banking at 23:52. Session originated from Kolkata on Android device (OnePlus).
+
+Observations
+Noted several payments of increasing size to different accounts over days.  Noted payments described as deposit, upgrade fee or tax for withdrawal.  Noted small credits returned to the victim early on.   
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Checks performed
+I built the timeline of payments and any small returns. I checked whether beneficiary accounts are linked to other complaints. I recorded the platform or app name the victim used.   
+
+Outcome
+Escalated to the senior investigator because linked accounts appear in other open cases.   
+
+Page 2 of 2

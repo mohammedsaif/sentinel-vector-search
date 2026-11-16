@@ -1,0 +1,31 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+PLAYBOOK — CARD TESTING AND BIN ATTACK
+
+Playbook: Card testing and BIN attack
+
+Overview
+Fraudsters run many small authorisations on generated or stolen card numbers to find which ones work, then use the valid cards for larger purchases.
+
+Detection signals
+- Many low-value authorisations at the same merchant within minutes.
+- High decline rate with codes for invalid card or CVV.
+- Card numbers in a sequential range from the same BIN.
+- Same IP or device across many cards.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+What the investigator should check
+1) Group declines by merchant, IP and BIN range.
+2) Identify which cards had a successful authorisation.
+3) Check whether the merchant is a small donation or digital goods site.   
+
+Containment and next steps
+- Block or reissue the cards that were successfully tested.
+- Ask the acquirer to add velocity controls at the merchant.   
+
+Evidence to keep
+Keep device and session logs, alert delivery records, the customer’s first report with its timestamp, beneficiary bank responses and every call note.  These decide the customer liability outcome and may be reviewed by the ombudsman.
+
+Page 2 of 2

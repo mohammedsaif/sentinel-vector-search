@@ -1,0 +1,21 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+RBI — E-MANDATES FOR RECURRING CARD AND UPI PAYMENTS
+
+Issuer: RBI
+
+Note: synthetic summary prepared for the SENTINEL coursework corpus. It paraphrases public guidance and is not an official RBI or NPCI text.
+
+1. Registration
+A recurring payment mandate on a card or UPI must be registered with additional factor authentication. The customer must get a pre-debit notification before each charge, with an option to opt out.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+2.  Thresholds
+Recurring debits up to a set value can run without additional authentication for each charge, while higher amounts need it.  Some categories such as insurance premiums and mutual fund subscriptions have a higher threshold.   
+
+3. Disputes
+Many chargebacks labelled as subscription fraud are cases where the customer forgot a mandate or a free trial converted to paid. Investigators should check the mandate registration record and pre-debit notification log before treating the case as unauthorised.   
+
+Page 2 of 2

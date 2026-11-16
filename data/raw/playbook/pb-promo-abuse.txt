@@ -1,0 +1,29 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+PLAYBOOK — CASHBACK AND PROMOTION ABUSE
+
+Playbook: Cashback and promotion abuse
+
+Overview
+Users create many accounts or devices to claim first-transaction cashback repeatedly.
+
+Detection signals
+- Many new accounts on the same device or IP.
+- First transactions of exactly the cashback threshold amount.
+- Cashback credited and moved out immediately.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+What the investigator should check
+1) Cluster accounts by device fingerprint.
+2) Check the merchants used for the qualifying transaction.
+
+Containment and next steps
+- Claw back the cashback.
+- Block the device cluster from promotions.
+
+Evidence to keep
+Keep device and session logs, alert delivery records, the customer's first report with its timestamp, beneficiary bank responses and every call note. These decide the customer liability outcome and may be reviewed by the ombudsman.
+
+Page 2 of 2

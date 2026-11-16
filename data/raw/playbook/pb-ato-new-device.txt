@@ -1,0 +1,38 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+PLAYBOOK — ACCOUNT TAKEOVER FROM A NEW DEVICE
+
+Playbook: Account takeover from a new device
+
+Overview
+An attacker gains control of the customer’s mobile or internet banking, registers a new device and quickly drains the account through high-value payments to new payees.
+
+Detection signals
+- First login from a device never seen on the account.
+- UPI PIN reset or password reset minutes before the payment.
+- High-value payment to a beneficiary added the same day.
+- Login location far from the customer's usual city.
+- Transaction at an unusual hour for this customer.
+- Old device still active in the same period.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+What the investigator should check
+1) Compare the device fingerprint with the customer's device history.
+2) Check the time gap between device registration, PIN reset and payment.
+3) Check whether the registered mobile number or email changed recently.
+4) Call the customer on the number held before any recent change.
+5) Check whether the beneficiary account has other fraud complaints.
+6) Review IP address and geolocation against previous sessions.
+
+Containment and next steps
+- Block the new device and force re-registration.
+- Place a hold request with the beneficiary bank.
+- Reset credentials after verifying the customer in person or by video.
+- Advise the customer to report on the 1930 helpline.
+
+Evidence to keep
+Keep device and session logs, alert delivery records, the customer’s first report with its timestamp, beneficiary bank responses and every call note. These decide the customer liability outcome and may be reviewed by the ombudsman.
+
+Page 2 of 2

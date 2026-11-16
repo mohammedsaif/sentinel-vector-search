@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-89807
+
+Case SEN-2026-89807 | Typology suspected: Insider-assisted fraud | Status: Confirmed fraud
+
+Summary
+Branch staff raised a concern and referred the case. Customer is based in Bhubaneswar. Disputed amount Rs 387,189 via card-not-present at 03:47. Session originated from Nagpur on Android device (Samsung).   
+
+Observations
+Noted accounts opened in bulk by the same employee. Noted mobile number changed by a staff user without a customer request.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Checks performed
+I reviewed the audit trail of the staff user. I compared change requests with customer service tickets.
+
+Outcome
+Fraud confirmed. Partial funds frozen at the beneficiary bank; remaining amount had already moved to a second-layer account.
+
+Page 2 of 2

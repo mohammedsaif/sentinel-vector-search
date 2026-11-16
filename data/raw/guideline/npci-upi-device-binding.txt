@@ -1,0 +1,21 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+NPCI — UPI DEVICE AND SIM BINDING
+
+Issuer: NPCI
+
+Note: synthetic summary prepared for the SENTINEL coursework corpus.  It paraphrases public guidance and is not an official RBI or NPCI text.   
+
+1. Binding
+When a customer sets up UPI, the app verifies that the SIM holding the registered mobile number is present in the device, usually by sending an outbound SMS. The UPI profile is then bound to that device.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+2.  Re-registration
+Changing the phone or SIM requires the customer to re-register and to set or validate the UPI PIN with debit card details or Aadhaar-based OTP.  This is the step attackers target in SIM swap and account takeover.
+
+3. Signals
+A device change followed within minutes by a UPI PIN reset and a high-value payment to a new payee is a strong account-takeover pattern. So is the same device registering UPI profiles for many different mobile numbers.
+
+Page 2 of 2

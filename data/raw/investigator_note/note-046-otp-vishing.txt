@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-85674
+
+Case SEN-2026-85674 | Typology suspected: OTP phishing and vishing | Status: False positive
+
+Summary
+Branch staff raised a concern and referred the case. Customer is based in Mysuru. Disputed amount Rs 451,099 via UPI at 19:21. Session originated from Hyderabad on Android device (Realme).
+
+Observations
+Noted card-not-present transaction at a merchant the customer never used. Noted OTP requested and used within seconds.   
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Checks performed
+I looked for other customers reporting the same caller number.  I listened to or read the customer’s account of the call and note the script.
+
+Outcome
+Customer confirmed the transaction as genuine. Alert closed as a false positive; rule threshold noted for tuning.
+
+Page 2 of 2

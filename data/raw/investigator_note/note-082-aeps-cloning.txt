@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-49179
+
+Case SEN-2026-49179 | Typology suspected: AePS biometric cloning | Status: Customer error
+
+Summary
+Alert raised by the real-time rules engine. Customer is based in Ahmedabad. Disputed amount Rs 297,785 via UPI at 19:21. Session originated from Mysuru on Android device (OnePlus).
+
+Observations
+Noted withdrawals at a business correspondent far from the customer’s home.  Noted AePS cash withdrawals the customer did not make.  Noted several victims linked to the same terminal. Noted customer had registered a property or document recently.   
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Checks performed
+I got the terminal ID, operator ID and location.  I checked how many accounts were debited at the same terminal.   
+
+Outcome
+Customer made the payment by mistake to a wrong but genuine payee. Reclassified as a wrong-credit request, not fraud.
+
+Page 2 of 2

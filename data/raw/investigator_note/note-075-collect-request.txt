@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-26143
+
+Case SEN-2026-26143 | Typology suspected: Fraudulent UPI collect request | Status: Confirmed fraud
+
+Summary
+Flagged by the network-level risk score. Customer is based in Mumbai. Disputed amount Rs 108,232 via card-not-present at 01:09. Session originated from Indore on Android device (Samsung).
+
+Observations
+Noted customer approved the request within seconds of receiving it.  Noted requester has sent collect requests to many users.  Noted collect request from an unknown requester.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Checks performed
+I checked the requester’s VPA history across complaints. I checked whether the customer had any genuine pending refund.   
+
+Outcome
+Case confirmed as fraud.  Customer liability assessed under the bank's policy; recovery requested from the beneficiary bank.   
+
+Page 2 of 2

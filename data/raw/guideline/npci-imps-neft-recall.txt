@@ -1,0 +1,21 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+NPCI — RECALL OF FRAUDULENT IMPS AND ACCOUNT TRANSFERS
+
+Issuer: NPCI   
+
+Note: synthetic summary prepared for the SENTINEL coursework corpus. It paraphrases public guidance and is not an official RBI or NPCI text.   
+
+1. Recall
+When a customer reports that an IMPS or account transfer was fraudulent, the remitter bank sends a recall request to the beneficiary bank. The beneficiary bank checks whether the funds are still in the account and places a hold if they are.   
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+2. Return of funds
+Funds held under a fraud complaint are usually returned only after the beneficiary account holder has had a chance to respond, or on the order of a court or law enforcement agency.   
+
+3.  Investigator checks
+Check how quickly the beneficiary moved the money, whether it went to other accounts at the same bank, and whether the beneficiary account has other fraud complaints.
+
+Page 2 of 2

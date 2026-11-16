@@ -1,0 +1,25 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-99181
+
+Case SEN-2026-99181 | Typology suspected: Cashback and promotion abuse | Status: Confirmed fraud
+
+Summary
+Branch staff raised a concern and referred the case. Customer is based in Hyderabad. Disputed amount Rs 184,630 via mobile banking at 01:09. Session originated from Nuh on Android device (Redmi).   
+
+Observations
+Noted many new accounts on the same device or IP. Noted first transactions of exactly the cashback threshold amount.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Customer statement
+Customer says: “Someone called me saying my KYC was expiring.”
+
+Checks performed
+I checked the merchants used for the qualifying transaction. I clustered accounts by device fingerprint.
+
+Outcome
+Fraud confirmed. Partial funds frozen at the beneficiary bank; remaining amount had already moved to a second-layer account.   
+
+Page 2 of 2

@@ -1,0 +1,25 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-98753
+
+Case SEN-2026-98753 | Typology suspected: Triangulation fraud on online marketplaces | Status: Confirmed fraud
+
+Summary
+Branch staff raised a concern and referred the case. Customer is based in Delhi. Disputed amount Rs 379,741 via UPI at 06:40. Session originated from Chennai on Android device (Oppo).
+
+Observations
+Noted cardholder disputes a purchase that was delivered to a stranger. Noted shipping address differs from the cardholder’s billing address. Noted orders for high-demand electronics.   
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Customer statement
+Customer says: “I did not do this payment.”   
+
+Checks performed
+I identified the marketplace seller who triggered the order.  I compared billing and shipping details.
+
+Outcome
+Fraud confirmed.  Partial funds frozen at the beneficiary bank; remaining amount had already moved to a second-layer account.
+
+Page 2 of 2

@@ -1,0 +1,25 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-89823
+
+Case SEN-2026-89823 | Typology suspected: Mule account receiving fraud proceeds | Status: Escalated
+
+Summary
+Flagged by the network-level risk score.  Customer is based in Lucknow.  Disputed amount Rs 192,554 via internet banking at 11:05. Session originated from Kolkata on Android device (Redmi).
+
+Observations
+Noted outward transfers within minutes of each credit.  Noted account recently opened or long dormant and suddenly active.  Noted balance kept close to zero. Noted complaints on the national cybercrime portal naming the account.   
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Customer statement
+Customer says: “I did not do this payment.”   
+
+Checks performed
+I calculated inflow-outflow ratio and average holding time.  I checked whether the account holder’s profile matches the volume.   
+
+Outcome
+Escalated to the senior investigator because linked accounts appear in other open cases.
+
+Page 2 of 2

@@ -1,0 +1,25 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-87833
+
+Case SEN-2026-87833 | Typology suspected: Insider-assisted fraud | Status: False positive   
+
+Summary
+Alert raised by the real-time rules engine. Customer is based in Hyderabad. Disputed amount Rs 396,940 via UPI at 03:47. Session originated from Delhi on iPhone.
+
+Observations
+Noted staff account viewing customer records outside working hours.  Noted accounts opened in bulk by the same employee.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Customer statement
+Customer says: “I was told to keep the video call on.”
+
+Checks performed
+I reviewed the audit trail of the staff user. I compared change requests with customer service tickets.
+
+Outcome
+Customer confirmed the transaction as genuine. Alert closed as a false positive; rule threshold noted for tuning.
+
+Page 2 of 2

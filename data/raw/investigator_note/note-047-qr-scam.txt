@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-85340
+
+Case SEN-2026-85340 | Typology suspected: QR code and 'scan to receive' scam | Status: Escalated
+
+Summary
+Customer called the helpline to report the transaction. Customer is based in Bhubaneswar. Disputed amount Rs 267,006 via IMPS at 19:21. Session originated from Patna on Android device (OnePlus).
+
+Observations
+Noted payee VPA created recently. Noted several small payments followed by a larger one to the same payee.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Checks performed
+I checked the transaction notes and the QR code source if available. I checked the age of the payee VPA and the beneficiary account.   
+
+Outcome
+Escalated to the senior investigator because linked accounts appear in other open cases.   
+
+Page 2 of 2

@@ -1,0 +1,25 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-42077
+
+Case SEN-2026-42077 | Typology suspected: SIM swap fraud | Status: Customer error
+
+Summary
+Branch staff raised a concern and referred the case. Customer is based in Patna. Disputed amount Rs 294,593 via mobile banking at 19:21. Session originated from Mumbai on Android device (Oppo).
+
+Observations
+Noted telecom operator reports a recent SIM change.  Noted several transactions in quick succession after re-registration.  Noted customer's phone suddenly loses network.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Customer statement
+Customer says: “Someone called me saying my KYC was expiring.”
+
+Checks performed
+I checked whether the customer's email was also changed. I queried the telecom SIM-change date through the available API.
+
+Outcome
+Customer made the payment by mistake to a wrong but genuine payee. Reclassified as a wrong-credit request, not fraud.   
+
+Page 2 of 2

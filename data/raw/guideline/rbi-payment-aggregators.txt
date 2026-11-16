@@ -1,0 +1,21 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+RBI — PAYMENT AGGREGATORS AND MERCHANT ONBOARDING
+
+Issuer: RBI
+
+Note: synthetic summary prepared for the SENTINEL coursework corpus.  It paraphrases public guidance and is not an official RBI or NPCI text.
+
+1. Merchant due diligence
+Payment aggregators must carry out due diligence on merchants they onboard, including KYC of the business and its owners, verification of the website or business premises, and checks that the declared business category matches the actual activity.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+2.  Escrow
+Funds collected for merchants must be kept in an escrow account and settled within defined timelines.  Aggregators must not use merchant funds for their own purposes.
+
+3. Transaction laundering
+Transaction laundering happens when an onboarded merchant processes payments for another, often illegal, business. Signals include a mismatch between declared category and ticket size, sudden volume growth, high refund or chargeback ratios and customers who complain about a different business name on their statement.   
+
+Page 2 of 2

@@ -1,0 +1,21 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+NPCI — UPI COLLECT REQUESTS AND PULL-PAYMENT RISK
+
+Issuer: NPCI
+
+Note: synthetic summary prepared for the SENTINEL coursework corpus. It paraphrases public guidance and is not an official RBI or NPCI text.
+
+1.  How collect works
+A collect request lets a payee ask a payer to approve a debit.  The payer sees the request in their app and must enter their UPI PIN to approve it.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+2. Abuse
+Fraudsters send collect requests with notes such as ’refund’, ’cashback’ or ’receive money’, hoping the victim thinks entering the PIN will receive funds. Entering the UPI PIN always sends money; it never receives it.
+
+3. Controls
+NPCI has moved to restrict person-to-person collect requests and limit their value. Apps should show clear warnings on collect requests and let customers block unknown requesters.
+
+Page 2 of 2

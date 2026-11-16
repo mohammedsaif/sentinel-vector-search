@@ -1,0 +1,34 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+PLAYBOOK — SIM SWAP FRAUD
+
+Playbook: SIM swap fraud   
+
+Overview
+The attacker gets a duplicate SIM for the victim's number, receives OTPs and re-registers banking apps on their own phone.
+
+Detection signals
+- Customer's phone suddenly loses network.
+- Telecom operator reports a recent SIM change.
+- UPI re-registration on a new device right after the SIM change.
+- OTPs delivered while the customer says their phone had no signal.
+- Several transactions in quick succession after re-registration.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+What the investigator should check
+1) Query the telecom SIM-change date through the available API.
+2) Match the time of SIM change with the device registration.
+3) Check whether the customer’s email was also changed.
+4) Check the KYC documents used for the duplicate SIM if police request them.   
+
+Containment and next steps
+- Block all digital channels until the customer is re-verified.
+- Mark the case for customer zero-liability review if reported in time.
+- Share the attacker device fingerprint with the fraud intelligence team.
+
+Evidence to keep
+Keep device and session logs, alert delivery records, the customer's first report with its timestamp, beneficiary bank responses and every call note. These decide the customer liability outcome and may be reviewed by the ombudsman.
+
+Page 2 of 2

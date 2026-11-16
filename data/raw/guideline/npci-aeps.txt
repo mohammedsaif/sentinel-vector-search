@@ -1,0 +1,21 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+NPCI — AADHAAR ENABLED PAYMENT SYSTEM FRAUD
+
+Issuer: NPCI
+
+Note: synthetic summary prepared for the SENTINEL coursework corpus. It paraphrases public guidance and is not an official RBI or NPCI text.
+
+1. How AePS works
+AePS lets customers withdraw cash, check balances and transfer money at a business correspondent point using their Aadhaar number and fingerprint.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+2. Fraud patterns
+Fraudsters have used cloned fingerprints made from leaked property or registration records to withdraw money from victims’ accounts without OTP. Victims often notice only when they see an SMS for a withdrawal they did not make.
+
+3. Controls
+Customers can lock their Aadhaar biometrics, and banks and NPCI apply liveness detection and velocity limits per business correspondent. Investigators should check the terminal ID, operator and location of each withdrawal.
+
+Page 2 of 2

@@ -1,0 +1,36 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+PLAYBOOK — MULE ACCOUNT RECEIVING FRAUD PROCEEDS
+
+Playbook: Mule account receiving fraud proceeds
+
+Overview
+An account receives money from many unrelated victims and moves it out within minutes to other accounts, wallets or cash withdrawals.   
+
+Detection signals
+- Many inward credits from unrelated remitters in a short time.
+- Outward transfers within minutes of each credit.
+- Account recently opened or long dormant and suddenly active.
+- Balance kept close to zero.
+- Same device or IP used by other flagged accounts.
+- Complaints on the national cybercrime portal naming the account.   
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+What the investigator should check
+1) Calculate inflow-outflow ratio and average holding time.
+2) Map onward transfers to find the next layer.
+3) Check whether the account holder's profile matches the volume.
+4) Check the business correspondent or branch that opened the account.
+
+Containment and next steps
+- Debit-freeze the account under policy.
+- Contact the account holder for an explanation.
+- Report the account and linked accounts.
+- Mark linked devices for monitoring.
+
+Evidence to keep
+Keep device and session logs, alert delivery records, the customer's first report with its timestamp, beneficiary bank responses and every call note.  These decide the customer liability outcome and may be reviewed by the ombudsman.   
+
+Page 2 of 2

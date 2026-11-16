@@ -1,0 +1,25 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-57290
+
+Case SEN-2026-57290 | Typology suspected: Card testing and BIN attack | Status: Confirmed fraud
+
+Summary
+Flagged by the network-level risk score. Customer is based in Kolkata. Disputed amount Rs 296,455 via UPI at 03:47. Session originated from Kochi on Android device (Realme).
+
+Observations
+Noted same IP or device across many cards. Noted card numbers in a sequential range from the same BIN. Noted many low-value authorisations at the same merchant within minutes. Noted high decline rate with codes for invalid card or CVV.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Customer statement
+Customer says: “I only shared the code to get my refund.”
+
+Checks performed
+I identified which cards had a successful authorisation. I grouped declines by merchant, IP and BIN range. I checked whether the merchant is a small donation or digital goods site.
+
+Outcome
+Case confirmed as fraud. Customer liability assessed under the bank’s policy; recovery requested from the beneficiary bank.   
+
+Page 2 of 2

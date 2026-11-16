@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-91885
+
+Case SEN-2026-91885 | Typology suspected: Fraudulent UPI collect request | Status: Escalated
+
+Summary
+Branch staff raised a concern and referred the case. Customer is based in Guwahati. Disputed amount Rs 216,697 via IMPS at 14:30. Session originated from Pune on Android device (OnePlus).
+
+Observations
+Noted requester has sent collect requests to many users. Noted request note mentions refund, cashback, lottery or reward.   
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Checks performed
+I checked whether the customer had any genuine pending refund. I checked the requester’s VPA history across complaints.
+
+Outcome
+Escalated to the senior investigator because linked accounts appear in other open cases.
+
+Page 2 of 2

@@ -1,0 +1,25 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-15551
+
+Case SEN-2026-15551 | Typology suspected: Refund abuse | Status: Confirmed fraud
+
+Summary
+Branch staff raised a concern and referred the case. Customer is based in Bhubaneswar. Disputed amount Rs 132,998 via UPI at 06:40. Session originated from Indore on Android device (Redmi).
+
+Observations
+Noted refunds without a matching original transaction. Noted refunds issued to a different card or account than the original payment. Noted the same staff member approving many refunds.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Customer statement
+Customer says: “Someone called me saying my KYC was expiring.”
+
+Checks performed
+I reviewed the approver of each refund.  I matched each refund to the original transaction.   
+
+Outcome
+Case confirmed as fraud. Customer liability assessed under the bank's policy; recovery requested from the beneficiary bank.
+
+Page 2 of 2

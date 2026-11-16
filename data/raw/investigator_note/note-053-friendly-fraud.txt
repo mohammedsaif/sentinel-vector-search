@@ -1,0 +1,25 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-48737
+
+Case SEN-2026-48737 | Typology suspected: First-party misuse and friendly fraud | Status: False positive
+
+Summary
+Customer called the helpline to report the transaction.  Customer is based in Jaipur.  Disputed amount Rs 292,360 via card-not-present at 09:55. Session originated from Mumbai on Android device (Realme).   
+
+Observations
+Noted dispute raised after the return window closed.  Noted purchase made from the customer’s usual device and location.  Noted customer has disputed several purchases with different merchants.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Customer statement
+Customer says: “Someone called me saying my KYC was expiring.”
+
+Checks performed
+I reviewed the customer’s past dispute history. I compared the device and IP with the customer’s history. I obtained delivery proof and any customer communication from the merchant.   
+
+Outcome
+Customer confirmed the transaction as genuine. Alert closed as a false positive; rule threshold noted for tuning.   
+
+Page 2 of 2

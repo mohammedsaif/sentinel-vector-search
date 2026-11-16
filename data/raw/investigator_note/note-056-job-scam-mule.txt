@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-64559
+
+Case SEN-2026-64559 | Typology suspected: Job scam used to recruit mules | Status: Customer error
+
+Summary
+Flagged by the network-level risk score.  Customer is based in Lucknow.  Disputed amount Rs 44,133 via UPI at 06:40. Session originated from Ahmedabad on iPhone.
+
+Observations
+Noted messages mention commission on each transfer.  Noted customer says they were offered a work-from-home job.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Checks performed
+I interviewed the account holder about how they got the job. I checked social media or messaging handles they were contacted through.
+
+Outcome
+Customer made the payment by mistake to a wrong but genuine payee. Reclassified as a wrong-credit request, not fraud.
+
+Page 2 of 2

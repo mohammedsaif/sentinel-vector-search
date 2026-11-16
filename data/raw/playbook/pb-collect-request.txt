@@ -1,0 +1,31 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+PLAYBOOK — FRAUDULENT UPI COLLECT REQUEST
+
+Playbook: Fraudulent UPI collect request
+
+Overview
+The victim approves a collect request believing it is a refund, cashback or prize, and the money is debited.
+
+Detection signals
+- Collect request from an unknown requester.
+- Request note mentions refund, cashback, lottery or reward.
+- Customer approved the request within seconds of receiving it.
+- Requester has sent collect requests to many users.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+What the investigator should check
+1) Check the requester's VPA history across complaints.
+2) Check whether the customer had any genuine pending refund.
+
+Containment and next steps
+- Block the requester VPA.
+- Request a hold with the beneficiary bank.
+- Add the requester to the collect block list.
+
+Evidence to keep
+Keep device and session logs, alert delivery records, the customer’s first report with its timestamp, beneficiary bank responses and every call note.  These decide the customer liability outcome and may be reviewed by the ombudsman.
+
+Page 2 of 2

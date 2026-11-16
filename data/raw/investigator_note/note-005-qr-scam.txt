@@ -1,0 +1,25 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-27038
+
+Case SEN-2026-27038 | Typology suspected: QR code and 'scan to receive' scam | Status: False positive
+
+Summary
+Branch staff raised a concern and referred the case. Customer is based in Lucknow. Disputed amount Rs 220,302 via internet banking at 02:14. Session originated from Mysuru on Android device (Vivo).
+
+Observations
+Noted victim was selling an item on an online marketplace. Noted several small payments followed by a larger one to the same payee.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Customer statement
+Customer says: “Someone called me saying my KYC was expiring.”
+
+Checks performed
+I checked the age of the payee VPA and the beneficiary account. I checked the transaction notes and the QR code source if available.
+
+Outcome
+Customer confirmed the transaction as genuine. Alert closed as a false positive; rule threshold noted for tuning.
+
+Page 2 of 2

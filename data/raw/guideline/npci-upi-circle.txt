@@ -1,0 +1,18 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+NPCI — DELEGATED UPI PAYMENTS
+
+Issuer: NPCI
+
+Note: synthetic summary prepared for the SENTINEL coursework corpus. It paraphrases public guidance and is not an official RBI or NPCI text.
+
+1. Delegation
+A primary user can let a trusted secondary user make UPI payments from the primary user's account, either with full delegation inside a monthly limit or with approval for each payment.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+2.  Risk
+Delegation can be abused in coercion and family-fraud cases.  Investigators should check who set up the delegation, when, and from which device, before treating a secondary user’s payment as unauthorised.
+
+Page 2 of 2

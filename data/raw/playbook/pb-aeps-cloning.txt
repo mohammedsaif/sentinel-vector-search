@@ -1,0 +1,30 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+PLAYBOOK — AEPS BIOMETRIC CLONING
+
+Playbook: AePS biometric cloning   
+
+Overview
+Cloned fingerprints are used at business correspondent points to withdraw cash from victims' accounts without OTP.   
+
+Detection signals
+- AePS cash withdrawals the customer did not make.
+- Withdrawals at a business correspondent far from the customer's home.
+- Several victims linked to the same terminal.
+- Customer had registered a property or document recently.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+What the investigator should check
+1) Get the terminal ID, operator ID and location.
+2) Check how many accounts were debited at the same terminal.
+
+Containment and next steps
+- Advise the customer to lock biometrics.
+- Suspend the business correspondent terminal pending inquiry.
+
+Evidence to keep
+Keep device and session logs, alert delivery records, the customer's first report with its timestamp, beneficiary bank responses and every call note. These decide the customer liability outcome and may be reviewed by the ombudsman.
+
+Page 2 of 2

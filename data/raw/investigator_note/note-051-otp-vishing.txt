@@ -1,0 +1,25 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-95798
+
+Case SEN-2026-95798 | Typology suspected: OTP phishing and vishing | Status: False positive
+
+Summary
+Flagged by the network-level risk score.  Customer is based in Lucknow.  Disputed amount Rs 216,823 via UPI at 03:47. Session originated from Indore on Android device (Samsung).
+
+Observations
+Noted card-not-present transaction at a merchant the customer never used. Noted customer mentions KYC update, card block or reward points.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Customer statement
+Customer says: “My phone had no signal all evening.”   
+
+Checks performed
+I listened to or read the customer's account of the call and note the script.  I checked whether the OTP was entered from the customer's device or elsewhere.
+
+Outcome
+Customer confirmed the transaction as genuine. Alert closed as a false positive; rule threshold noted for tuning.
+
+Page 2 of 2

@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+CHARGEBACK NARRATIVE 030
+
+Chargeback reference CB-547820 | Reason: credit not processed | Merchant: SecureLife (insurance premium)
+
+Customer claim
+The customer returned the item but the refund never came.  Amount Rs 52,804 paid via UPI.
+
+Merchant response
+The merchant re-presented the transaction and submitted proof that the returned item was not received or was damaged.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Investigation
+The dispute analyst reviewed the merchant's evidence against the customer's claim and the customer's previous disputes.
+
+Decision
+Chargeback declined; the merchant's evidence was found valid. Customer informed of the ombudsman route.
+
+Page 2 of 2

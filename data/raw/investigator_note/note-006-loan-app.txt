@@ -1,0 +1,25 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-68138
+
+Case SEN-2026-68138 | Typology suspected: Fraudulent loan app | Status: Escalated
+
+Summary
+Flagged by the network-level risk score.  Customer is based in Nuh.  Disputed amount Rs 272,564 via mobile banking at 09:55. Session originated from Delhi on Android device (Realme).
+
+Observations
+Noted app not linked to any regulated lender. Noted customer pays many small amounts to different accounts described as loan repayment. Noted customer reports threats or morphed photos.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Customer statement
+Customer says: “I did not do this payment.”
+
+Checks performed
+I listed all beneficiary accounts the customer paid. I checked whether the lender named in the app is regulated.   
+
+Outcome
+Escalated to the senior investigator because linked accounts appear in other open cases.
+
+Page 2 of 2

@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-17567
+
+Case SEN-2026-17567 | Typology suspected: Synthetic identity accounts | Status: Customer error
+
+Summary
+Alert raised by the real-time rules engine.  Customer is based in Guwahati.  Disputed amount Rs 69,004 via card-not-present at 19:21. Session originated from Mysuru on Android device (Samsung).   
+
+Observations
+Noted same address or phone across many new applicants. Noted identity documents that pass checks but have little history. Noted rapid credit limit usage soon after opening.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Checks performed
+I linked applicants by shared attributes. I re-verified documents with the issuing source.
+
+Outcome
+Customer made the payment by mistake to a wrong but genuine payee. Reclassified as a wrong-credit request, not fraud.
+
+Page 2 of 2

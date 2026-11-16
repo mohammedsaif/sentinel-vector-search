@@ -1,0 +1,25 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-54541
+
+Case SEN-2026-54541 | Typology suspected: Digital arrest impersonation scam | Status: Confirmed fraud
+
+Summary
+Flagged by the network-level risk score.  Customer is based in Bengaluru.  Disputed amount Rs 199,379 via card-not-present at 06:40. Session originated from Indore on Android emulator.   
+
+Observations
+Noted large transfers, often from fixed deposits broken the same day. Noted customer mentions police, customs, a parcel with drugs or a court order.   
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Customer statement
+Customer says: “I only shared the code to get my refund.”
+
+Checks performed
+I confirmed whether a fixed deposit was closed or a loan taken before the transfer. I traced beneficiary accounts quickly because funds move fast. I checked whether branch staff noticed distress.   
+
+Outcome
+Case confirmed as fraud.  Customer liability assessed under the bank’s policy; recovery requested from the beneficiary bank.
+
+Page 2 of 2

@@ -1,0 +1,25 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-77350
+
+Case SEN-2026-77350 | Typology suspected: Fraudulent UPI collect request | Status: Customer error
+
+Summary
+Alert raised by the real-time rules engine. Customer is based in Patna. Disputed amount Rs 235,975 via internet banking at 06:40. Session originated from Hyderabad on Android device (Vivo).
+
+Observations
+Noted requester has sent collect requests to many users.  Noted request note mentions refund, cashback, lottery or reward.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Customer statement
+Customer says: “I only shared the code to get my refund.”
+
+Checks performed
+I checked the requester's VPA history across complaints.  I checked whether the customer had any genuine pending refund.
+
+Outcome
+Customer made the payment by mistake to a wrong but genuine payee. Reclassified as a wrong-credit request, not fraud.
+
+Page 2 of 2

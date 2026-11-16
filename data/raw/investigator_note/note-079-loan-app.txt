@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-74990
+
+Case SEN-2026-74990 | Typology suspected: Fraudulent loan app | Status: Customer error
+
+Summary
+Flagged by the network-level risk score.  Customer is based in Delhi.  Disputed amount Rs 349,396 via UPI at 11:05. Session originated from Pune on Android device (Samsung).
+
+Observations
+Noted customer reports threats or morphed photos.  Noted customer pays many small amounts to different accounts described as loan repayment.  Noted app not linked to any regulated lender.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Checks performed
+I checked whether the lender named in the app is regulated.  I listed all beneficiary accounts the customer paid.   
+
+Outcome
+Customer made the payment by mistake to a wrong but genuine payee. Reclassified as a wrong-credit request, not fraud.
+
+Page 2 of 2

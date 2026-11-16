@@ -1,0 +1,25 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-72773
+
+Case SEN-2026-72773 | Typology suspected: Remote access app scam | Status: False positive   
+
+Summary
+Case received from the national cybercrime reporting system.  Customer is based in Kolkata.  Disputed amount Rs 241,981 via mobile banking at 06:40. Session originated from Jaipur on Android device (OnePlus).
+
+Observations
+Noted screen-sharing session active during the banking session.  Noted transactions made while the customer was on a call.  Noted unusual touch or typing patterns compared with the customer's behaviour.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Customer statement
+Customer says: “My phone had no signal all evening.”   
+
+Checks performed
+I compared session behaviour biometrics with the customer’s history.  I established who suggested installing the app and why.  I reviewed the app’s security telemetry for remote access tools.
+
+Outcome
+Customer confirmed the transaction as genuine. Alert closed as a false positive; rule threshold noted for tuning.
+
+Page 2 of 2

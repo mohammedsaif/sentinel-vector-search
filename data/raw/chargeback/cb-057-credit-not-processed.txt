@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+CHARGEBACK NARRATIVE 057
+
+Chargeback reference CB-256574 | Reason: credit not processed | Merchant: QuickBasket (grocery delivery)
+
+Customer claim
+The customer returned the item but the refund never came.  Amount Rs 77,164 paid via credit card.
+
+Merchant response
+The merchant did not submit sufficient evidence within the re-presentment window.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Investigation
+The dispute analyst found that the warehouse confirmed receipt of the return.   
+
+Decision
+Chargeback accepted in the customer's favour; amount credited back.
+
+Page 2 of 2

@@ -1,0 +1,32 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+PLAYBOOK — INVESTMENT AND TASK SCAM
+
+Playbook: Investment and task scam   
+
+Overview
+Victims are added to messaging groups promising high returns on trading or simple online tasks.  Early small payouts build trust before large deposits are taken.   
+
+Detection signals
+- Several payments of increasing size to different accounts over days.
+- Small credits returned to the victim early on.
+- Payments described as deposit, upgrade fee or tax for withdrawal.
+- Beneficiary accounts change frequently.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+What the investigator should check
+1) Build the timeline of payments and any small returns.
+2) Check whether beneficiary accounts are linked to other complaints.
+3) Record the platform or app name the victim used.
+
+Containment and next steps
+- Advise the victim to stop further payments.
+- File hold requests for every beneficiary account.
+- Report the app or site.
+
+Evidence to keep
+Keep device and session logs, alert delivery records, the customer’s first report with its timestamp, beneficiary bank responses and every call note. These decide the customer liability outcome and may be reviewed by the ombudsman.
+
+Page 2 of 2

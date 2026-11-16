@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-70249
+
+Case SEN-2026-70249 | Typology suspected: Fraudulent UPI collect request | Status: Customer error
+
+Summary
+Customer called the helpline to report the transaction. Customer is based in Ahmedabad. Disputed amount Rs 275,868 via internet banking at 14:30. Session originated from Mysuru on Android device (Oppo).   
+
+Observations
+Noted customer approved the request within seconds of receiving it. Noted requester has sent collect requests to many users. Noted request note mentions refund, cashback, lottery or reward. Noted collect request from an unknown requester.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Checks performed
+I checked the requester’s VPA history across complaints. I checked whether the customer had any genuine pending refund.
+
+Outcome
+Customer made the payment by mistake to a wrong but genuine payee.  Reclassified as a wrong-credit request, not fraud.
+
+Page 2 of 2

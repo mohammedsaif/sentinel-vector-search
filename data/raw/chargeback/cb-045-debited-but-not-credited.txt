@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+CHARGEBACK NARRATIVE 045
+
+Chargeback reference CB-299072 | Reason: debited but not credited | Merchant: HP Pump 2291 (fuel station)
+
+Customer claim
+The customer’s UPI payment failed at the merchant but the account was debited.  Amount Rs 72,523 paid via debit card.   
+
+Merchant response
+The merchant re-presented the transaction and submitted a settlement record showing the merchant received the funds.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Investigation
+The dispute analyst reviewed the merchant’s evidence against the customer’s claim and the customer’s previous disputes.   
+
+Decision
+Chargeback declined; the merchant's evidence was found valid.  Customer informed of the ombudsman route.
+
+Page 2 of 2

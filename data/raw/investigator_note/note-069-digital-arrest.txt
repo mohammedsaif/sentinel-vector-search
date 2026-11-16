@@ -1,0 +1,25 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-68079
+
+Case SEN-2026-68079 | Typology suspected: Digital arrest impersonation scam | Status: Customer error
+
+Summary
+Alert raised by the real-time rules engine.  Customer is based in Lucknow.  Disputed amount Rs 345,063 via mobile banking at 23:52. Session originated from Ahmedabad on Android device (Samsung).
+
+Observations
+Noted transfers to accounts with no prior relationship.  Noted customer mentions police, customs, a parcel with drugs or a court order.  Noted customer was on a long video call during the transfers. Noted large transfers, often from fixed deposits broken the same day.   
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Customer statement
+Customer says: “I was told to keep the video call on.”   
+
+Checks performed
+I confirmed whether a fixed deposit was closed or a loan taken before the transfer. I checked whether branch staff noticed distress. I traced beneficiary accounts quickly because funds move fast.
+
+Outcome
+Customer made the payment by mistake to a wrong but genuine payee. Reclassified as a wrong-credit request, not fraud.   
+
+Page 2 of 2

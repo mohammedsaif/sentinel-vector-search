@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-44116
+
+Case SEN-2026-44116 | Typology suspected: Investment and task scam | Status: Escalated   
+
+Summary
+Flagged by the network-level risk score. Customer is based in Kolkata. Disputed amount Rs 160,410 via UPI at 19:21. Session originated from Guwahati on Android emulator.
+
+Observations
+Noted payments described as deposit, upgrade fee or tax for withdrawal. Noted beneficiary accounts change frequently. Noted small credits returned to the victim early on. Noted several payments of increasing size to different accounts over days.   
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Checks performed
+I built the timeline of payments and any small returns. I recorded the platform or app name the victim used.   
+
+Outcome
+Escalated to the senior investigator because linked accounts appear in other open cases.
+
+Page 2 of 2

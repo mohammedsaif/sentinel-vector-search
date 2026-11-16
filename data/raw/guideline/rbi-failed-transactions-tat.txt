@@ -1,0 +1,24 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+RBI — TURNAROUND TIME FOR FAILED TRANSACTIONS AND COMPENSATION
+
+Issuer: RBI
+
+Note: synthetic summary prepared for the SENTINEL coursework corpus. It paraphrases public guidance and is not an official RBI or NPCI text.
+
+1. Principle
+When a transaction fails because of a technical issue, communication failure or non-availability of funds at the beneficiary end, the customer’s money must be returned within a defined turnaround time. If the provider misses that time, it must pay compensation to the customer without the customer having to ask.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+2. UPI
+For a UPI transaction where the customer’s account is debited but the beneficiary account is not credited, the amount should be auto-reversed by the next working day. Delays beyond that attract compensation of one hundred rupees per day.
+
+3. Cards and ATMs
+For an ATM withdrawal where the account is debited but cash is not dispensed, the reversal should happen within five days. For card transactions at merchants, the acquirer should complete the reversal within the prescribed time.   
+
+4.  Dispute handling
+Customers should be able to raise a failed-transaction complaint in the app.  Investigators should distinguish genuine failed transactions from false claims by checking switch logs and the beneficiary bank’s response code.
+
+Page 2 of 2

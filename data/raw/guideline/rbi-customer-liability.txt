@@ -1,0 +1,33 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+RBI — CUSTOMER LIABILITY IN UNAUTHORISED ELECTRONIC BANKING TRANSACTIONS
+
+Issuer: RBI   
+
+Note: synthetic summary prepared for the SENTINEL coursework corpus. It paraphrases public guidance and is not an official RBI or NPCI text.
+
+1.  Purpose
+This guidance sets out how much of a loss a customer bears when money leaves their account through an electronic transaction they did not authorise.  It covers internet banking, mobile banking, UPI, card-present and card-not-present transactions, and prepaid instruments issued by banks. The aim is to give customers confidence in digital channels while making banks responsible for the security of the systems they run.
+
+Page 1 of 3
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+2.  Zero liability
+A customer has zero liability when the unauthorised transaction happened because of contributory fraud, negligence or a deficiency on the part of the bank, whether or not the customer reported it.  A customer also has zero liability when the breach lies elsewhere in the system, neither with the bank nor with the customer, provided the customer tells the bank within three working days of receiving the transaction alert.
+
+3.  Limited liability
+When the customer reports a third-party breach between four and seven working days after the alert, liability is limited to the transaction value or a fixed cap, whichever is lower.  The cap depends on the account type: about five thousand rupees for basic savings accounts, ten thousand rupees for most savings accounts and smaller credit cards, and twenty-five thousand rupees for current accounts and higher-limit credit cards. Reports made after seven working days are handled under the bank’s board-approved policy.
+
+4.  Customer negligence
+Where the loss is due to the customer's own negligence, such as sharing a password, PIN or OTP, the customer bears the full loss until the unauthorised transaction is reported.  Any loss after the report is borne by the bank. Investigators should therefore record exactly when the customer first reported the issue and through which channel.
+
+Page 2 of 3
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+5.  Bank obligations
+The bank must credit the disputed amount to the customer's account as a shadow reversal within ten working days of the report, without waiting for an insurance claim.  The complaint must be resolved and liability established within ninety days. The burden of proving customer liability lies on the bank, so case files must hold logs, device data and alert delivery records.
+
+6. Reporting channels
+Banks must give customers round-the-clock ways to report unauthorised transactions, including a website link, an SMS reply option, a toll-free number and a branch option. Each report must be acknowledged immediately with a complaint number and a timestamp, because the timestamp decides which liability band applies.   
+
+Page 3 of 3

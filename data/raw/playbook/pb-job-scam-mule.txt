@@ -1,0 +1,31 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+PLAYBOOK — JOB SCAM USED TO RECRUIT MULES
+
+Playbook: Job scam used to recruit mules
+
+Overview
+Victims are offered part-time work such as 'payment processing' or 'rating products' and are asked to receive and forward money through their accounts.
+
+Detection signals
+- Customer says they were offered a work-from-home job.
+- Regular inflows followed by forwarding to the same set of accounts.
+- Messages mention commission on each transfer.
+- Young customer with a new account and sudden high volume.   
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+What the investigator should check
+1) Interview the account holder about how they got the job.
+2) Identify the accounts they forwarded money to.
+3) Check social media or messaging handles they were contacted through.   
+
+Containment and next steps
+- Restrict the account and explain the legal risk to the holder.
+- Report the recruiter’s accounts and handles.
+
+Evidence to keep
+Keep device and session logs, alert delivery records, the customer’s first report with its timestamp, beneficiary bank responses and every call note.  These decide the customer liability outcome and may be reviewed by the ombudsman.
+
+Page 2 of 2

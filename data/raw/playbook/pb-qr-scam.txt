@@ -1,0 +1,32 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+PLAYBOOK — QR CODE AND 'SCAN TO RECEIVE' SCAM
+
+Playbook: QR code and 'scan to receive' scam   
+
+Overview
+The fraudster sends a QR code or payment link claiming the victim will receive money, for example for an item they are selling online. Scanning and entering the PIN sends money instead.
+
+Detection signals
+- Victim was selling an item on an online marketplace.
+- Payment note says ’receive’ or ’refund’.
+- Several small payments followed by a larger one to the same payee.
+- Payee VPA created recently.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+What the investigator should check
+1) Check the age of the payee VPA and the beneficiary account.
+2) Check how many other payers sent money to the same VPA.
+3) Check the transaction notes and the QR code source if available.
+
+Containment and next steps
+- Report the payee VPA to the beneficiary bank for blocking.
+- Request a hold on the funds.
+- Explain to the customer that the PIN is only used to pay.
+
+Evidence to keep
+Keep device and session logs, alert delivery records, the customer's first report with its timestamp, beneficiary bank responses and every call note. These decide the customer liability outcome and may be reviewed by the ombudsman.
+
+Page 2 of 2

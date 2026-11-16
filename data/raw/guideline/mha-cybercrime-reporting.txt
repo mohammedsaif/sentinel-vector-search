@@ -1,0 +1,21 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+MHA — NATIONAL CYBERCRIME REPORTING AND THE 1930 HELPLINE
+
+Issuer: MHA
+
+Note: synthetic summary prepared for the SENTINEL coursework corpus. It paraphrases public guidance and is not an official RBI or NPCI text.
+
+1.  Reporting
+Victims of financial cyber fraud can call the 1930 helpline or file a complaint on the national cybercrime reporting portal.  The complaint is shared with banks and payment providers through the citizen financial cyber fraud reporting system.   
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+2. Golden hour
+Funds can often be frozen if the complaint reaches the beneficiary bank before the fraudster moves the money onward. Reporting within the first hour gives the best chance of recovery.
+
+3. Bank action
+On receiving a complaint, banks should place a lien or hold on the amount in the beneficiary account, trace onward transfers and update the status on the system so that the trail can be followed across banks.
+
+Page 2 of 2

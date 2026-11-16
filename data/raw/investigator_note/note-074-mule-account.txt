@@ -1,0 +1,25 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-58903
+
+Case SEN-2026-58903 | Typology suspected: Mule account receiving fraud proceeds | Status: False positive
+
+Summary
+Customer called the helpline to report the transaction. Customer is based in Ahmedabad. Disputed amount Rs 288,342 via UPI at 01:09. Session originated from Bengaluru on iPhone.
+
+Observations
+Noted outward transfers within minutes of each credit. Noted many inward credits from unrelated remitters in a short time. Noted same device or IP used by other flagged accounts. Noted account recently opened or long dormant and suddenly active.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Customer statement
+Customer says: “I did not do this payment.”
+
+Checks performed
+I mapped onward transfers to find the next layer. I checked whether the account holder's profile matches the volume.   
+
+Outcome
+Customer confirmed the transaction as genuine.  Alert closed as a false positive; rule threshold noted for tuning.
+
+Page 2 of 2

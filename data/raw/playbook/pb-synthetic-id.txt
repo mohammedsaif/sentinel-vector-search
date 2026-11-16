@@ -1,0 +1,29 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+PLAYBOOK — SYNTHETIC IDENTITY ACCOUNTS
+
+Playbook: Synthetic identity accounts
+
+Overview
+Fraudsters combine real and fake identity details to open accounts that are later used as mules or for credit bust-out.
+
+Detection signals
+- Identity documents that pass checks but have little history.
+- Same address or phone across many new applicants.
+- Rapid credit limit usage soon after opening.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+What the investigator should check
+1) Link applicants by shared attributes.
+2) Re-verify documents with the issuing source.
+
+Containment and next steps
+- Freeze linked accounts pending review.
+- Update onboarding rules with the shared attributes.
+
+Evidence to keep
+Keep device and session logs, alert delivery records, the customer’s first report with its timestamp, beneficiary bank responses and every call note. These decide the customer liability outcome and may be reviewed by the ombudsman.   
+
+Page 2 of 2

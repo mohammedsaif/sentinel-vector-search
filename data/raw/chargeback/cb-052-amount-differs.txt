@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+CHARGEBACK NARRATIVE 052
+
+Chargeback reference CB-450006 | Reason: amount differs | Merchant: CityCare Hospital (hospital)   
+
+Customer claim
+The customer was charged more than the agreed price.  Amount Rs 47,750 paid via debit card.
+
+Merchant response
+The merchant did not submit sufficient evidence within the re-presentment window.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Investigation
+The dispute analyst found that the invoice shows a lower amount than the debit.
+
+Decision
+Chargeback accepted in the customer's favour; amount credited back.   
+
+Page 2 of 2

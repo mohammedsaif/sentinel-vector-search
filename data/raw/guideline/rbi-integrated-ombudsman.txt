@@ -1,0 +1,21 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+RBI — INTEGRATED OMBUDSMAN SCHEME AND INTERNAL GRIEVANCE REDRESS
+
+Issuer: RBI   
+
+Note: synthetic summary prepared for the SENTINEL coursework corpus. It paraphrases public guidance and is not an official RBI or NPCI text.   
+
+1.  Escalation
+A customer can approach the ombudsman if their complaint to the regulated entity is rejected, is not satisfactorily resolved, or receives no reply within thirty days.  The scheme covers banks, non-bank payment system participants and many NBFCs.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+2.  Internal ombudsman
+Larger entities must appoint an internal ombudsman who reviews complaints that the entity proposes to reject in whole or in part.  This creates an independent check before a customer is told no.
+
+3.  Implication for fraud teams
+Every rejected fraud dispute may be reviewed later.  Case notes should therefore show the evidence used, the timeline of the customer's report and the reasoning behind the liability decision.
+
+Page 2 of 2

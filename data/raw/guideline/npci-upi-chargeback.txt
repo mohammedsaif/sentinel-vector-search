@@ -1,0 +1,24 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+NPCI — UPI CHARGEBACK, RE-PRESENTMENT AND ARBITRATION
+
+Issuer: NPCI   
+
+Note: synthetic summary prepared for the SENTINEL coursework corpus. It paraphrases public guidance and is not an official RBI or NPCI text.   
+
+1. Chargeback
+The remitter bank can raise a chargeback on behalf of its customer for reasons such as goods or services not delivered, a duplicate debit, a debit without a matching credit, or an amount different from what was agreed. A chargeback must be raised within the allowed window after the transaction date.   
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+2.  Re-presentment
+The beneficiary bank, usually on behalf of the merchant, can contest the chargeback by re-presenting the transaction with evidence such as delivery proof, a signed invoice or service logs.  The remitter bank then reviews the evidence.
+
+3. Pre-arbitration and arbitration
+If the parties still disagree, the case goes to pre-arbitration and then to arbitration by the NPCI committee, which decides based on the evidence submitted by both banks.   
+
+4.  Good practice
+Fraud teams should tag chargebacks that look like first-party misuse, such as a customer who disputes a delivery that was signed for.  Repeated chargebacks by the same customer across merchants should feed into risk scoring.   
+
+Page 2 of 2

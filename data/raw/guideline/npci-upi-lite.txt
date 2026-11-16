@@ -1,0 +1,18 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+NPCI — UPI LITE AND SMALL-VALUE ON-DEVICE PAYMENTS
+
+Issuer: NPCI   
+
+Note: synthetic summary prepared for the SENTINEL coursework corpus. It paraphrases public guidance and is not an official RBI or NPCI text.
+
+1.  Design
+UPI Lite lets customers make small-value payments from an on-device balance without entering a UPI PIN for each payment.  The balance and per-payment limits are kept small to limit loss.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+2. Risk
+If a phone is stolen while unlocked, the Lite balance can be spent. Customers should be able to disable Lite and move the balance back to their account remotely.
+
+Page 2 of 2

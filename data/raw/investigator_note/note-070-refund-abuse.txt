@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-33276
+
+Case SEN-2026-33276 | Typology suspected: Refund abuse | Status: Confirmed fraud   
+
+Summary
+Alert raised by the real-time rules engine.  Customer is based in Jamtara.  Disputed amount Rs 356,669 via IMPS at 09:55. Session originated from Coimbatore on Android device (Oppo).
+
+Observations
+Noted the same staff member approving many refunds.  Noted refunds without a matching original transaction.  Noted refunds issued to a different card or account than the original payment.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Checks performed
+I matched each refund to the original transaction. I reviewed the approver of each refund.   
+
+Outcome
+Case confirmed as fraud. Customer liability assessed under the bank’s policy; recovery requested from the beneficiary bank.
+
+Page 2 of 2

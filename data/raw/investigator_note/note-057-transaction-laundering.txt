@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-13133
+
+Case SEN-2026-13133 | Typology suspected: Merchant collusion and transaction laundering | Status: Confirmed fraud
+
+Summary
+Flagged by the network-level risk score. Customer is based in Mysuru. Disputed amount Rs 220,519 via card-not-present at 02:14. Session originated from Jaipur on Android device (Vivo).
+
+Observations
+Noted ticket sizes that do not match the declared business.  Noted customers who do not recognise the merchant name.  Noted payments coming mostly at night.   
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Checks performed
+I compared the merchant category code with actual product sold. I sampled customer complaints for the business name they expected. I visited or verify the merchant’s premises and website.   
+
+Outcome
+Fraud confirmed. Partial funds frozen at the beneficiary bank; remaining amount had already moved to a second-layer account.
+
+Page 2 of 2

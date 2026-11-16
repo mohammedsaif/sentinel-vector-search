@@ -1,0 +1,25 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-58843
+
+Case SEN-2026-58843 | Typology suspected: Remote access app scam | Status: Escalated   
+
+Summary
+Case received from the national cybercrime reporting system. Customer is based in Mysuru. Disputed amount Rs 49,201 via mobile banking at 14:30. Session originated from Chennai on Android emulator.
+
+Observations
+Noted transactions made while the customer was on a call. Noted unusual touch or typing patterns compared with the customer's behaviour.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Customer statement
+Customer says: “I was told to keep the video call on.”
+
+Checks performed
+I compared session behaviour biometrics with the customer's history. I established who suggested installing the app and why.   
+
+Outcome
+Escalated to the senior investigator because linked accounts appear in other open cases.   
+
+Page 2 of 2

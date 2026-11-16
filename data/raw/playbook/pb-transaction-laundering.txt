@@ -1,0 +1,32 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+PLAYBOOK — MERCHANT COLLUSION AND TRANSACTION LAUNDERING
+
+Playbook: Merchant collusion and transaction laundering   
+
+Overview
+A merchant processes payments for an undisclosed business, such as gambling or fraud proceeds, through its own merchant account.
+
+Detection signals
+- Ticket sizes that do not match the declared business.
+- Sudden growth in volume at a newly onboarded merchant.
+- Customers who do not recognise the merchant name.
+- High chargeback or refund ratio.
+- Payments coming mostly at night.   
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+What the investigator should check
+1) Visit or verify the merchant's premises and website.
+2) Sample customer complaints for the business name they expected.
+3) Compare the merchant category code with actual product sold.
+
+Containment and next steps
+- Suspend settlement pending review.
+- Report to the acquirer and payment aggregator risk team.
+
+Evidence to keep
+Keep device and session logs, alert delivery records, the customer's first report with its timestamp, beneficiary bank responses and every call note. These decide the customer liability outcome and may be reviewed by the ombudsman.
+
+Page 2 of 2

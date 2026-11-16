@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+CHARGEBACK NARRATIVE 080
+
+Chargeback reference CB-273021 | Reason: debited but not credited | Merchant: YatraLane (travel booking)   
+
+Customer claim
+The customer's UPI payment failed at the merchant but the account was debited. Amount Rs 80,055 paid via UPI.
+
+Merchant response
+The merchant did not submit sufficient evidence within the re-presentment window.   
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Investigation
+The dispute analyst found that switch logs show the beneficiary bank timed out and no credit was posted.
+
+Decision
+Chargeback accepted in the customer's favour; amount credited back.
+
+Page 2 of 2

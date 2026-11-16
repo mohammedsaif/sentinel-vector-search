@@ -1,0 +1,25 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-63227
+
+Case SEN-2026-63227 | Typology suspected: Fake customer care number | Status: Escalated
+
+Summary
+Customer called the helpline to report the transaction. Customer is based in Guwahati. Disputed amount Rs 428,125 via internet banking at 09:55. Session originated from Kochi on Android device (Vivo).
+
+Observations
+Noted refund or complaint was the reason for the call. Noted customer says they found the number through an internet search.   
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Customer statement
+Customer says: “I only shared the code to get my refund.”   
+
+Checks performed
+I checked for other cases with the same number. I recorded the number called and where it was found.   
+
+Outcome
+Escalated to the senior investigator because linked accounts appear in other open cases.
+
+Page 2 of 2

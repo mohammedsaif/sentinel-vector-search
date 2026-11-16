@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-57002
+
+Case SEN-2026-57002 | Typology suspected: First-party misuse and friendly fraud | Status: False positive
+
+Summary
+Alert raised by the real-time rules engine.  Customer is based in Bengaluru.  Disputed amount Rs 290,309 via UPI at 22:18. Session originated from Nuh on Android device (Oppo).
+
+Observations
+Noted delivery confirmed at the customer’s address. Noted dispute raised after the return window closed. Noted customer has disputed several purchases with different merchants. Noted purchase made from the customer’s usual device and location.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Checks performed
+I obtained delivery proof and any customer communication from the merchant. I compared the device and IP with the customer’s history. I reviewed the customer’s past dispute history.
+
+Outcome
+Customer confirmed the transaction as genuine.  Alert closed as a false positive; rule threshold noted for tuning.
+
+Page 2 of 2

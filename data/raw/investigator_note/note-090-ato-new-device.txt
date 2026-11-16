@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-86269
+
+Case SEN-2026-86269 | Typology suspected: Account takeover from a new device | Status: Escalated
+
+Summary
+Branch staff raised a concern and referred the case. Customer is based in Patna. Disputed amount Rs 206,883 via UPI at 14:30. Session originated from Jamtara on Android device (Vivo).
+
+Observations
+Noted UPI PIN reset or password reset minutes before the payment.  Noted first login from a device never seen on the account.  Noted high-value payment to a beneficiary added the same day. Noted login location far from the customer's usual city.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Checks performed
+I reviewed IP address and geolocation against previous sessions.  I checked the time gap between device registration, PIN reset and payment.  I checked whether the registered mobile number or email changed recently.
+
+Outcome
+Escalated to the senior investigator because linked accounts appear in other open cases.
+
+Page 2 of 2

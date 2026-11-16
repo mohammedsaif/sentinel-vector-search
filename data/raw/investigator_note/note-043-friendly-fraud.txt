@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-57843
+
+Case SEN-2026-57843 | Typology suspected: First-party misuse and friendly fraud | Status: Confirmed fraud   
+
+Summary
+Case received from the national cybercrime reporting system. Customer is based in Jamtara. Disputed amount Rs 404,283 via UPI at 03:47. Session originated from Hyderabad on Android device (Realme).
+
+Observations
+Noted delivery confirmed at the customer’s address. Noted customer has disputed several purchases with different merchants.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Checks performed
+I reviewed the customer's past dispute history. I obtained delivery proof and any customer communication from the merchant.
+
+Outcome
+Fraud confirmed.  Partial funds frozen at the beneficiary bank; remaining amount had already moved to a second-layer account.
+
+Page 2 of 2

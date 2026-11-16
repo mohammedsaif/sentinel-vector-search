@@ -1,0 +1,25 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-44003
+
+Case SEN-2026-44003 | Typology suspected: Digital arrest impersonation scam | Status: False positive
+
+Summary
+Case received from the national cybercrime reporting system.  Customer is based in Patna.  Disputed amount Rs 467,458 via UPI at 23:52. Session originated from Bhubaneswar on Android device (Vivo).
+
+Observations
+Noted customer was on a long video call during the transfers.  Noted customer mentions police, customs, a parcel with drugs or a court order.  Noted transfers to accounts with no prior relationship.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Customer statement
+Customer says: “My phone had no signal all evening.”
+
+Checks performed
+I traced beneficiary accounts quickly because funds move fast.  I confirmed whether a fixed deposit was closed or a loan taken before the transfer.  I checked whether branch staff noticed distress.   
+
+Outcome
+Customer confirmed the transaction as genuine. Alert closed as a false positive; rule threshold noted for tuning.
+
+Page 2 of 2

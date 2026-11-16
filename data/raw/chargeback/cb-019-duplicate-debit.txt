@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+CHARGEBACK NARRATIVE 019
+
+Chargeback reference CB-885290 | Reason: duplicate debit | Merchant: CityCare Hospital (hospital)
+
+Customer claim
+The customer was charged twice for one purchase. Amount Rs 68,729 paid via wallet.   
+
+Merchant response
+The merchant did not submit sufficient evidence within the re-presentment window.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Investigation
+The dispute analyst found that the gateway retried after a timeout and both attempts were captured.
+
+Decision
+Chargeback accepted in the customer's favour; amount credited back.   
+
+Page 2 of 2

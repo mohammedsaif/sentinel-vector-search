@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-26059
+
+Case SEN-2026-26059 | Typology suspected: Card testing and BIN attack | Status: Confirmed fraud   
+
+Summary
+Flagged by the network-level risk score. Customer is based in Guwahati. Disputed amount Rs 353,155 via IMPS at 19:21. Session originated from Mumbai on Android device (Oppo).
+
+Observations
+Noted high decline rate with codes for invalid card or CVV. Noted card numbers in a sequential range from the same BIN.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Checks performed
+I checked whether the merchant is a small donation or digital goods site. I identified which cards had a successful authorisation. I grouped declines by merchant, IP and BIN range.
+
+Outcome
+Case confirmed as fraud. Customer liability assessed under the bank's policy; recovery requested from the beneficiary bank.   
+
+Page 2 of 2

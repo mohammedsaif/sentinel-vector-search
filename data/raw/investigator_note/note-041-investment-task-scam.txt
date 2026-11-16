@@ -1,0 +1,25 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-23399
+
+Case SEN-2026-23399 | Typology suspected: Investment and task scam | Status: False positive
+
+Summary
+Branch staff raised a concern and referred the case. Customer is based in Delhi. Disputed amount Rs 87,386 via mobile banking at 19:21. Session originated from Chennai on Android device (Realme).
+
+Observations
+Noted beneficiary accounts change frequently. Noted small credits returned to the victim early on.   
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Customer statement
+Customer says: “My phone had no signal all evening.”   
+
+Checks performed
+I built the timeline of payments and any small returns. I recorded the platform or app name the victim used. I checked whether beneficiary accounts are linked to other complaints.
+
+Outcome
+Customer confirmed the transaction as genuine.  Alert closed as a false positive; rule threshold noted for tuning.   
+
+Page 2 of 2

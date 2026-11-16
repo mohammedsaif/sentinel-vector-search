@@ -1,0 +1,18 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+RBI — OUTSOURCING AND THIRD-PARTY RISK IN PAYMENTS
+
+Issuer: RBI
+
+Note: synthetic summary prepared for the SENTINEL coursework corpus. It paraphrases public guidance and is not an official RBI or NPCI text.   
+
+1. Accountability
+A regulated entity remains responsible for activities it outsources, including customer onboarding, collections and technology services. Contracts must give the entity audit rights and require prompt reporting of incidents.   
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+2. Insider risk
+Staff at outsourced call centres and business correspondents can misuse customer data. Controls include masking of sensitive fields, access logging, and periodic review of who looked at which account.   
+
+Page 2 of 2

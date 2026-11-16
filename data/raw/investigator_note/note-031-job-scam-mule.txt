@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-27507
+
+Case SEN-2026-27507 | Typology suspected: Job scam used to recruit mules | Status: Customer error
+
+Summary
+Branch staff raised a concern and referred the case. Customer is based in Chennai. Disputed amount Rs 411,892 via UPI at 19:21. Session originated from Coimbatore on Android device (Samsung).   
+
+Observations
+Noted messages mention commission on each transfer. Noted regular inflows followed by forwarding to the same set of accounts. Noted young customer with a new account and sudden high volume.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Checks performed
+I interviewed the account holder about how they got the job. I checked social media or messaging handles they were contacted through.
+
+Outcome
+Customer made the payment by mistake to a wrong but genuine payee.  Reclassified as a wrong-credit request, not fraud.   
+
+Page 2 of 2

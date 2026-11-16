@@ -1,0 +1,22 @@
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+INVESTIGATOR NOTE SEN-2026-36633
+
+Case SEN-2026-36633 | Typology suspected: AePS biometric cloning | Status: Confirmed fraud
+
+Summary
+Alert raised by the real-time rules engine.  Customer is based in Mysuru.  Disputed amount Rs 226,308 via card-not-present at 03:47. Session originated from Chennai on Android device (OnePlus).   
+
+Observations
+Noted customer had registered a property or document recently. Noted several victims linked to the same terminal. Noted AePS cash withdrawals the customer did not make.
+
+Page 1 of 2
+SENTINEL KNOWLEDGE BASE  |  CONFIDENTIAL — INTERNAL USE ONLY
+
+Checks performed
+I checked how many accounts were debited at the same terminal. I got the terminal ID, operator ID and location.   
+
+Outcome
+Case confirmed as fraud. Customer liability assessed under the bank’s policy; recovery requested from the beneficiary bank.
+
+Page 2 of 2
